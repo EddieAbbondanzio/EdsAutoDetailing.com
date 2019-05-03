@@ -6,7 +6,6 @@
 }
 </style>
 
-
 <template>
     <b-navbar
         type="light"

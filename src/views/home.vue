@@ -27,7 +27,7 @@
 
 <template>
     <div>
-        <nav-bar/>
+        <!-- Hero -->
         <div class="cropped-hero position-relative">
             <img src="@/assets/gtr.jpg">
 
@@ -47,17 +47,16 @@
                 </div>
             </div>
         </div>
+
+        <!--  -->
     </div>
 </template>
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
-import NavBar from '@/components/nav-bar.vue';
 
 @Component({
-    components: {
-        NavBar
-    }
+    components: {}
 })
 export default class Home extends Vue {}
 </script>
