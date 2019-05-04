@@ -13,8 +13,7 @@
         left: 10%;
         right: 60%;
         bottom: 25%;
-        // opacity: 0.8;
-        border-left-width: 8px !important;
+        border-left-width: 16px !important;
 
         p {
             font-size: 1.25em;
@@ -40,8 +39,12 @@
                 </div>
 
                 <div class="pb-3 text-center">
-                    <b-btn variant="outline-dark" size="lg" class="mr-2">Services</b-btn>
-                    <b-btn variant="warning" size="lg" class="ml-2">Contact Us</b-btn>
+                    <router-link to="services">
+                        <b-btn variant="outline-dark" size="lg" class="mr-2">Services</b-btn>
+                    </router-link>
+                    <router-link to="contact">
+                        <b-btn variant="warning" size="lg" class="ml-2">Contact Us</b-btn>
+                    </router-link>
                 </div>
             </div>
         </div>

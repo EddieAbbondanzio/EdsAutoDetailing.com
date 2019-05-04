@@ -35,13 +35,23 @@
 
         <!-- Contact Info -->
         <div>
-            <div class="d-flex flex-row justify-content-left py-1">
-                <material-icon icon="phone" variant="black" class="pr-2"/>
-                <h5 class="text-muted">(207)-213-7547</h5>
+            <div class="py-1">
+                <a
+                    href="tel:2072137547"
+                    class="d-flex flex-row justify-content-left text-decoration-none text-secondary"
+                >
+                    <material-icon icon="phone" variant="black" class="pr-2"/>
+                    <h5 class="text-muted">(207)-213-7547</h5>
+                </a>
             </div>
-            <div class="d-flex flex-row justify-content-left py-1">
-                <material-icon icon="email" variant="black" class="pr-2"/>
-                <h5 class="text-muted">contact@edsautodetailing.com</h5>
+            <div class="py-1">
+                <a
+                    href="mailto:contact@edsautodetailing.com"
+                    class="d-flex flex-row justify-content-left text-decoration-none text-secondary"
+                >
+                    <material-icon icon="email" variant="black" class="pr-2"/>
+                    <h5 class="text-muted">contact@edsautodetailing.com</h5>
+                </a>
             </div>
         </div>
     </b-navbar>
