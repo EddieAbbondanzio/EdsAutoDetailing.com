@@ -13,7 +13,7 @@
 </style>
 
 <template>
-    <div class="container">
+    <div class="container py-3 py-lg-5">
         <div class="row">
             <div class="col-12 col-lg-6 text-center pb-3 pb-lg-0">
                 <div class="d-flex flex-row align-items-center justify-content-center pb-3">

@@ -2,9 +2,7 @@
     <div class="page-content">
         <nav-bar/>
 
-        <div class="py-3 py-lg-5">
-            <router-view></router-view>
-        </div>
+        <router-view></router-view>
 
         <nav-footer/>
     </div>

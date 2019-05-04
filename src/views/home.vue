@@ -3,16 +3,15 @@
     height: 720px;
     overflow: hidden;
 
-    img {
+    .little-img {
+        height: 720px;
+    }
+
+    .big-img {
         width: 100%;
     }
 
-    > div {
-        position: absolute;
-        top: 25%;
-        // left: 10%;
-        // right: 60%;
-        bottom: 25%;
+    .hero-blurb {
         border-left-width: 16px !important;
 
         p {
@@ -26,19 +25,28 @@
     <div>
         <!-- Hero -->
         <div class="cropped-hero position-relative">
-            <img src="@/assets/gtr.jpg">
+            <img class="little-img d-lg-none position-absolute" src="@/assets/gtr.jpg">
+            <img class="big-img d-none d-lg-block position-absolute" src="@/assets/gtr.jpg">
 
-            <div class="container-fluid mx-0 px-0">
-                <div class="row">
-                    <div class="offset-1 col-10 offset-lg-1 col-lg-5">
-                        <!-- Message over hero -->
+            <div class="container-fluid mx-0 px-0 h-100">
+                <div class="row h-100">
+                    <!-- Message over hero -->
+                    <div
+                        class="offset-1 col-10 offset-lg-1 col-lg-5 hero-blurb d-flex flex-column justify-content-center"
+                    >
                         <div
                             class="d-flex flex-column justify-content-between bg-light-transparent p-3 border-left border-dark"
                             style="border-width: 16px!important;"
                         >
                             <div>
-                                <h2 class="text-dark font-weight-bold display-4 mb-0">We Care</h2>
-                                <h1 class="text-dark font-weight-bold display-3">For Your Car</h1>
+                                <div class="d-md-none">
+                                    <h2 class="text-dark font-weight-bold mb-0">We Care</h2>
+                                    <h1 class="text-dark font-weight-bold">For Your Car</h1>
+                                </div>
+                                <div class="d-none d-md-block">
+                                    <h2 class="text-dark font-weight-bold display-4 mb-0">We Care</h2>
+                                    <h1 class="text-dark font-weight-bold display-3">For Your Car</h1>
+                                </div>
 
                                 <p>Our attention to detail is second to none. We'll bring your car back to life and make it look and feel brand new.</p>
                             </div>
@@ -59,13 +67,17 @@
 
         <!-- Blurb about who we are -->
         <div class="bg-light py-5 d-flex flex-column align-items-center">
-            <div class="w-50 pb-5">
-                <h1 class="display-3 text-center mb-3">What We Offer</h1>
+            <div class="pb-5 container-fluid">
+                <div class="row">
+                    <div class="col-12 offset-lg-2 col-lg-8">
+                        <h1 class="display-3 text-center mb-3">What We Offer</h1>
 
-                <p style="font-size: 1.25em;" class="pb-3">
-                    Specializing in all things detailing we know how to make your car shine like new. From interior to exterior we can do it all. Detailing helps
-                    keeps your car in it's best condition and protects it from wear and tear to help keep the resell value high.
-                </p>
+                        <p style="font-size: 1.25em;" class="pb-3">
+                            Specializing in all things detailing we know how to make your car shine like new. From interior to exterior we can do it all. Detailing helps
+                            keeps your car in it's best condition and protects it from wear and tear to help keep the resell value high.
+                        </p>
+                    </div>
+                </div>
 
                 <div class="container">
                     <div class="row">
