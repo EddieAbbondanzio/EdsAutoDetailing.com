@@ -15,6 +15,21 @@ export default new Router({
                     path: '/',
                     name: 'home',
                     component: Home
+                },
+                {
+                    path: 'services',
+                    name: 'services',
+                    component: () => import('@/views/services.vue')
+                },
+                {
+                    path: 'location',
+                    name: 'location',
+                    component: () => import('@/views/location.vue')
+                },
+                {
+                    path: 'contact',
+                    name: 'contact',
+                    component: () => import('@/views/contact.vue')
                 }
             ]
         }
