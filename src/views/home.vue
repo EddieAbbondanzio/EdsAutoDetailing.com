@@ -1,7 +1,7 @@
 <style lang="scss" scoped>
 .cropped-hero {
     height: 720px;
-    overflow-y: hidden;
+    overflow: hidden;
 
     img {
         width: 100%;
@@ -10,8 +10,8 @@
     > div {
         position: absolute;
         top: 25%;
-        left: 10%;
-        right: 60%;
+        // left: 10%;
+        // right: 60%;
         bottom: 25%;
         border-left-width: 16px !important;
 
@@ -28,23 +28,31 @@
         <div class="cropped-hero position-relative">
             <img src="@/assets/gtr.jpg">
 
-            <div
-                class="d-flex flex-column justify-content-between bg-light-transparent p-3 border-left border-dark"
-            >
-                <div>
-                    <h2 class="text-dark font-weight-bold display-4 mb-0">We Care</h2>
-                    <h1 class="text-dark font-weight-bold display-3">For Your Car</h1>
+            <div class="container-fluid mx-0 px-0">
+                <div class="row">
+                    <div class="offset-1 col-10 offset-lg-1 col-lg-5">
+                        <!-- Message over hero -->
+                        <div
+                            class="d-flex flex-column justify-content-between bg-light-transparent p-3 border-left border-dark"
+                            style="border-width: 16px!important;"
+                        >
+                            <div>
+                                <h2 class="text-dark font-weight-bold display-4 mb-0">We Care</h2>
+                                <h1 class="text-dark font-weight-bold display-3">For Your Car</h1>
 
-                    <p>Our attention to detail is second to none. We'll bring your car back to life and make it look and feel brand new.</p>
-                </div>
+                                <p>Our attention to detail is second to none. We'll bring your car back to life and make it look and feel brand new.</p>
+                            </div>
 
-                <div class="pb-3 text-center">
-                    <router-link to="services">
-                        <b-btn variant="outline-dark" size="lg" class="mr-2">Services</b-btn>
-                    </router-link>
-                    <router-link to="contact">
-                        <b-btn variant="warning" size="lg" class="ml-2">Contact Us</b-btn>
-                    </router-link>
+                            <div class="pb-3 text-center">
+                                <router-link to="services">
+                                    <b-btn variant="outline-dark" size="lg" class="mr-2">Services</b-btn>
+                                </router-link>
+                                <router-link to="contact">
+                                    <b-btn variant="warning" size="lg" class="ml-2">Contact Us</b-btn>
+                                </router-link>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

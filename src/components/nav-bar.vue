@@ -35,7 +35,7 @@
 
         <!-- Contact Info -->
         <div>
-            <div class="py-1">
+            <div class="py-1 d-none d-lg-block">
                 <a
                     href="tel:2072137547"
                     class="d-flex flex-row justify-content-left text-decoration-none text-secondary"
@@ -44,7 +44,7 @@
                     <h5 class="text-muted">(207)-213-7547</h5>
                 </a>
             </div>
-            <div class="py-1">
+            <div class="py-1 d-none d-lg-block">
                 <a
                     href="mailto:contact@edsautodetailing.com"
                     class="d-flex flex-row justify-content-left text-decoration-none text-secondary"
