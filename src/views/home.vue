@@ -51,7 +51,7 @@
 
         <!-- Blurb about who we are -->
         <div class="bg-light py-5 d-flex flex-column align-items-center">
-            <div class="w-50">
+            <div class="w-50 pb-5">
                 <h1 class="display-3 text-center mb-3">What We Offer</h1>
 
                 <p style="font-size: 1.25em;" class="pb-3">
@@ -142,23 +142,51 @@
                     </div>
                 </div>
             </div>
+        </div>
 
+        <div class="bg-white py-5 d-flex flex-column align-items-center">
             <div class="container py-5">
                 <div class="row">
-                    <div class="offset-2 col-8 py-3">
+                    <div class="offset-1 col-10 offset-lg-2 col-lg-8 py-3">
                         <img src="@/assets/exterior_acura.jpg" class="w-100">
                     </div>
                 </div>
                 <div class="row">
-                    <div class="offset-2 col-8 py-3">
+                    <div class="offset-1 col-10 offset-lg-2 col-lg-8 py-3">
                         <img src="@/assets/exterior_jeep.jpg" class="w-100">
                     </div>
                 </div>
                 <div class="row">
-                    <div class="offset-2 col-8 py-3">
+                    <div class="offset-1 col-10 offset-lg-2 col-lg-8 py-3">
                         <img src="@/assets/exterior_civic.jpg" class="w-100">
                     </div>
                 </div>
+            </div>
+        </div>
+        <div class="py-5 bg-warning text-dark text-center">
+            <h2 class="pb-3">Schedule an Appointment With Us</h2>
+            <div>
+                <a
+                    href="tel:2072137547"
+                    class="text-dark d-flex flex-row justify-content-center align-items-center"
+                >
+                    <material-icon icon="phone" size="lg" variant="dark" class="pr-2"/>
+                    <h3>(207)-213-7547</h3>
+                </a>
+            </div>
+            <div>
+                <a
+                    href="mailto:contact@edsautodetailing.com"
+                    class="text-dark d-flex flex-row justify-content-center align-items-center"
+                >
+                    <material-icon
+                        icon="email"
+                        size="lg"
+                        variant="dark"
+                        class="pr-2 text-decoration-none"
+                    />
+                    <h3>Contact@EdsAutoDetailing.com</h3>
+                </a>
             </div>
         </div>
     </div>
