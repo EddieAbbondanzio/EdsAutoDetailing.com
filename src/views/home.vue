@@ -170,7 +170,7 @@
                     href="tel:2072137547"
                     class="text-dark d-flex flex-row justify-content-center align-items-center"
                 >
-                    <material-icon icon="phone" size="lg" variant="dark" class="pr-2"/>
+                    <material-icon icon="phone" size="lg" variant="primary" class="pr-2"/>
                     <h3>(207)-213-7547</h3>
                 </a>
             </div>
@@ -182,7 +182,7 @@
                     <material-icon
                         icon="email"
                         size="lg"
-                        variant="dark"
+                        variant="primary"
                         class="pr-2 text-decoration-none"
                     />
                     <h3>contact@edsautodetailing.com</h3>

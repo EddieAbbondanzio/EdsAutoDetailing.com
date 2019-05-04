@@ -40,7 +40,7 @@
                     href="tel:2072137547"
                     class="d-flex flex-row justify-content-left text-decoration-none text-secondary"
                 >
-                    <material-icon icon="phone" variant="black" class="pr-2"/>
+                    <material-icon icon="phone" variant="primary" class="pr-2"/>
                     <h5 class="text-muted">(207)-213-7547</h5>
                 </a>
             </div>
@@ -49,7 +49,7 @@
                     href="mailto:contact@edsautodetailing.com"
                     class="d-flex flex-row justify-content-left text-decoration-none text-secondary"
                 >
-                    <material-icon icon="email" variant="black" class="pr-2"/>
+                    <material-icon icon="email" variant="primary" class="pr-2"/>
                     <h5 class="text-muted">contact@edsautodetailing.com</h5>
                 </a>
             </div>
