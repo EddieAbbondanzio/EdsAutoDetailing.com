@@ -163,7 +163,7 @@
                 </div>
             </div>
         </div>
-        <div class="py-5 bg-warning text-dark text-center">
+        <div class="py-5 bg-light text-dark text-center">
             <h2 class="pb-3">Schedule an Appointment With Us</h2>
             <div>
                 <a
@@ -185,7 +185,7 @@
                         variant="dark"
                         class="pr-2 text-decoration-none"
                     />
-                    <h3>Contact@EdsAutoDetailing.com</h3>
+                    <h3>contact@edsautodetailing.com</h3>
                 </a>
             </div>
         </div>
