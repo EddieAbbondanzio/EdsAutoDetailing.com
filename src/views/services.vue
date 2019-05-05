@@ -35,7 +35,6 @@ li {
                     <h2 class="text-muted">
                         <span class="text-dark pr-2 font-weight-bold">Wash/Vacuum/Windows</span>(Interior & Exterior)
                     </h2>
-                    <h3>$50</h3>
                 </div>
 
                 <div class="text-dark">
@@ -64,6 +63,11 @@ li {
                         </li>
                     </ul>
                 </div>
+
+                <div>
+                    <h4 class="font-weight-bold">Price</h4>
+                    <h5>$50 - Any Vehicle</h5>
+                </div>
             </div>
         </div>
 
@@ -74,7 +78,6 @@ li {
                     <h2 class="text-muted">
                         <span class="text-dark pr-2 font-weight-bold">Wash/Wax/Vacuum/Windows</span>(Interior & Exterior)
                     </h2>
-                    <h3>$70</h3>
                 </div>
 
                 <div class="text-dark">
@@ -109,6 +112,11 @@ li {
                         </li>
                     </ul>
                 </div>
+
+                <div>
+                    <h4 class="font-weight-bold">Price</h4>
+                    <h5>$70 - Any Vehicle</h5>
+                </div>
             </div>
         </div>
 
@@ -119,9 +127,6 @@ li {
                     <h2 class="text-muted">
                         <span class="font-weight-bold text-dark pr-2">Interior Deep Clean</span>(Interior)
                     </h2>
-                    <h3>$100 - Passenger Cars / Wagons</h3>
-                    <h3>$110 - SUV / Mini Vans</h3>
-                    <h3>$120 - Trucks / Cargo Vans</h3>
                 </div>
 
                 <div class="text-dark">
@@ -153,6 +158,13 @@ li {
                         </li>
                     </ul>
                 </div>
+
+                <div>
+                    <h4 class="font-weight-bold">Price</h4>
+                    <h5>$100 - Passenger Cars / Wagons</h5>
+                    <h5>$110 - SUV / Mini Vans</h5>
+                    <h5>$120 - Trucks / Cargo Vans</h5>
+                </div>
             </div>
         </div>
 
@@ -163,9 +175,6 @@ li {
                     <h2 class="text-muted">
                         <span class="font-weight-bold text-dark pr-2">Exterior Buff & Wax</span>(Exterior)
                     </h2>
-                    <h3>$100 - Passenger Cars / Wagons</h3>
-                    <h3>$110 - SUVs / Mini Vans</h3>
-                    <h3>$120 - Trucks / Cargo Vans</h3>
                 </div>
 
                 <div class="text-dark">
@@ -203,6 +212,13 @@ li {
                         </li>
                     </ul>
                 </div>
+
+                <div>
+                    <h4 class="font-weight-bold">Price</h4>
+                    <h5>$100 - Passenger Cars / Wagons</h5>
+                    <h5>$110 - SUVs / Mini Vans</h5>
+                    <h5>$120 - Trucks / Cargo Vans</h5>
+                </div>
             </div>
         </div>
 
@@ -213,9 +229,6 @@ li {
                     <h2 class="text-muted">
                         <span class="font-weight-bold text-dark pr-2">The Works</span>(Interior & Exterior)
                     </h2>
-                    <h3>$180 - Passenger Cars / Wagons / Crossovers</h3>
-                    <h3>$190 - SUVs/ Mini Vans</h3>
-                    <h3>$200 - Trucks / Cargo Vans</h3>
                 </div>
 
                 <div class="text-dark">
@@ -267,6 +280,12 @@ li {
                             <material-icon icon="check_circle_outline" variant="success"/>Windows Inside / Outside
                         </li>
                     </ul>
+                </div>
+                <div>
+                    <h4 class="font-weight-bold">Price</h4>
+                    <h5>$180 - Passenger Cars / Wagons</h5>
+                    <h5>$190 - SUVs/ Mini Vans</h5>
+                    <h5>$200 - Trucks / Cargo Vans</h5>
                 </div>
             </div>
         </div>
