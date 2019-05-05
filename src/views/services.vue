@@ -132,12 +132,9 @@ li {
                 <div class="text-dark">
                     <p
                         class="service-description"
-                    >Vacuum, shampoo cloth, and carpet, scrub / treat leather, clean vinyl and plastic, windows and headliners. Complimentary wash included.</p>
+                    >Vacuum, shampoo cloth, and carpet, scrub / treat leather, clean vinyl and plastic, windows and headliner.</p>
 
                     <ul class="list-unstyled">
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Wash
-                        </li>
                         <li>
                             <material-icon icon="check_circle_outline" variant="success"/>Hand Dry
                         </li>
@@ -154,7 +151,7 @@ li {
                             <material-icon icon="check_circle_outline" variant="success"/>Vinyl / Plastic
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Windows Inside / Outside
+                            <material-icon icon="check_circle_outline" variant="success"/>Windows Inside
                         </li>
                     </ul>
                 </div>
