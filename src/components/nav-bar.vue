@@ -14,7 +14,7 @@
         class="border-bottom border-muted py-3 d-flex justify-content-between"
     >
         <!-- Logo and Name -->
-        <b-navbar-brand href="#">
+        <b-navbar-brand href="/">
             <img alt="Vue logo" src="../assets/logo.png">
             <h2 class="d-none d-sm-inline-block align-middle my-0 ml-3">Ed's Auto Detailing</h2>
             <h4 class="d-inline-block d-sm-none align-middle my-0 ml-3">Ed's Auto Detailing</h4>
@@ -41,7 +41,7 @@
                     class="d-flex flex-row justify-content-left text-decoration-none text-secondary"
                 >
                     <material-icon icon="phone" variant="primary" class="pr-2"/>
-                    <h5 class="text-muted">(207)-213-7547</h5>
+                    <h5 class="text-dark">(207)-213-7547</h5>
                 </a>
             </div>
             <div class="py-1 d-none d-lg-block">
@@ -50,7 +50,7 @@
                     class="d-flex flex-row justify-content-left text-decoration-none text-secondary"
                 >
                     <material-icon icon="email" variant="primary" class="pr-2"/>
-                    <h5 class="text-muted">contact@edsautodetailing.com</h5>
+                    <h5 class="text-dark">contact@edsautodetailing.com</h5>
                 </a>
             </div>
         </div>
