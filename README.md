@@ -1,5 +1,9 @@
 # edsautodetailing.com
 
+This is the website for my automotive detailing business I run. It's built on Vue.js, coded in TypeScript and is pretty killer. 
+
+[In Action](edsautodetailing.com)
+
 ## Project setup
 ```
 npm install
