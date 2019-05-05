@@ -1,0 +1,31 @@
+html {
+    height: 100vh;
+}
+
+body {
+    min-height: 100%;
+    position: relative;
+}
+
+.page-content {
+    top: 0px;
+    bottom: 0px;
+    // Footer
+    padding-bottom: 128px;
+}
+
+.icon-sm {
+    font-size: 16px;
+}
+
+.icon-md {
+    font-size: 24px;
+}
+
+.icon-lg {
+    font-size: 48px;
+}
+
+.icon-xl {
+    font-size: 64px;
+}
