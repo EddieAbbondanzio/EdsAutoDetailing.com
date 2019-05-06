@@ -21,12 +21,20 @@
                     <h1 class="display-4 text-center mb-0">Location</h1>
                 </div>
 
+                <p class="pb-3" style="font-size: 1.25em;">
+                    Detailing will be performed at
+                    <a
+                        href="http://gardinercarandtruckwash.com/"
+                    >Gardiner Car And Truck Wash</a>
+                </p>
+
                 <h2 class="text-muted d-inline-block mb-0 text-center d-inline-block">
                     <a
                         class="text-muted"
                         href="https://maps.google.com/maps?ll=44.210822,-69.784445&z=13&t=m&hl=en-US&gl=US&mapclient=embed&daddr=396%20Brunswick%20Ave%20Gardiner%2C%20ME%2004345@44.2108223,-69.7844448"
                     >
-                        396 Brunswick Ave
+                        <span class="text-dark pb-3">Gardiner Car And Truck Wash</span>
+                        <br>396 Brunswick Ave
                         <br>Gardiner, Maine 04345
                     </a>
                 </h2>

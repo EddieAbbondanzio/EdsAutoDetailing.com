@@ -21,10 +21,14 @@ li {
     <div class="container py-3 py-lg-5">
         <!-- Header -->
         <div class="row">
-            <div class="col-12 text-center pb-3 pb-lg-0">
+            <div class="col-12 text-center pb-3 pb-lg-5">
                 <div class="d-flex flex-row align-items-center justify-content-center pb-3">
                     <h1 class="display-4 text-center mb-0">Services</h1>
                 </div>
+
+                <div
+                    class="alert alert-success"
+                >Currently we are only able to accept cash payments. We apologize for any inconvenience.</div>
             </div>
         </div>
 
