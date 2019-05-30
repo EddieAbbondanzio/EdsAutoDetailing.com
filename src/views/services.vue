@@ -25,10 +25,6 @@ li {
                 <div class="d-flex flex-row align-items-center justify-content-center pb-3">
                     <h1 class="display-4 text-center mb-0">Services</h1>
                 </div>
-
-                <div
-                    class="alert alert-success"
-                >Currently we are only able to accept cash payments. We apologize for any inconvenience.</div>
             </div>
         </div>
 
@@ -188,6 +184,9 @@ li {
                             <material-icon icon="check_circle_outline" variant="success"/>Wash
                         </li>
                         <li>
+                            <material-icon icon="check_circle_outline" variant="success"/>Engine Bay
+                        </li>
+                        <li>
                             <material-icon icon="check_circle_outline" variant="success"/>Door Jams
                         </li>
                         <li>
@@ -240,6 +239,9 @@ li {
                     <ul class="list-unstyled">
                         <li>
                             <material-icon icon="check_circle_outline" variant="success"/>Wash
+                        </li>
+                        <li>
+                            <material-icon icon="check_circle_outline" variant="success"/>Engine Bay
                         </li>
                         <li>
                             <material-icon icon="check_circle_outline" variant="success"/>Door Jams
