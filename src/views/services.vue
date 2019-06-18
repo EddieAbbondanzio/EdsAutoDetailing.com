@@ -202,7 +202,7 @@ li {
                             <material-icon icon="check_circle_outline" variant="success"/>Hand Wax
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Windows Inside / Outside
+                            <material-icon icon="check_circle_outline" variant="success"/>Windows Outside
                         </li>
                     </ul>
                 </div>
