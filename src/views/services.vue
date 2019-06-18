@@ -136,7 +136,7 @@ li {
 
                     <ul class="list-unstyled">
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Hand Dry
+                            <material-icon icon="check_circle_outline" variant="success"/>Door Jams
                         </li>
                         <li>
                             <material-icon icon="check_circle_outline" variant="success"/>Vacuum
@@ -182,12 +182,6 @@ li {
                     <ul class="list-unstyled">
                         <li>
                             <material-icon icon="check_circle_outline" variant="success"/>Wash
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Engine Bay
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Door Jams
                         </li>
                         <li>
                             <material-icon icon="check_circle_outline" variant="success"/>Rims
