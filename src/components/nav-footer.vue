@@ -10,7 +10,7 @@ footer {
 <template>
     <footer
         class="bg-black text-light d-flex flex-column align-items-center justify-content-center position-absolute"
-    >© {{ new Date().getFullYear() }} Ed's Auto Detailing</footer>
+    >© {{ new Date().getFullYear() }} Ed's Auto Detailing LLC</footer>
 </template>
 
 <script lang="ts">
