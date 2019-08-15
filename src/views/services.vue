@@ -28,94 +28,73 @@ li {
             </div>
         </div>
 
-        <!-- Wash/Vacuum/Windows -->
+        <!-- The Works -->
         <div class="row pb-5">
             <div class="col-12">
                 <div>
                     <h2 class="text-muted">
-                        <span class="text-dark pr-2 font-weight-bold">Wash/Vacuum/Windows</span>(Interior & Exterior)
+                        <span class="font-weight-bold text-dark pr-2">The Works</span>(Interior & Exterior)
                     </h2>
                 </div>
 
                 <div class="text-dark">
                     <p
                         class="service-description"
-                    >Give your vehicle a touch up. Exterior is washed and hand dried. Interior is vacuumed, vinyl / plastic is wiped down, and windows are cleaned.</p>
+                    >Full out detailing job. Wash, hand dry, clay bar, two stages of machine buffing (as needed), hand wax, and tire shine. Carpet / cloth is vacuumed and shampooed, leather is scrubbed / treated, vinyl and plastic is cleaned, windows are wiped down and the headliner is cleaned.</p>
 
                     <ul class="list-unstyled">
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Wash
+                            <material-icon icon="check_circle_outline" variant="success" />Wash
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Hand Dry
+                            <material-icon icon="check_circle_outline" variant="success" />Engine Bay
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Tire Shine
+                            <material-icon icon="check_circle_outline" variant="success" />Door Jams
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Vinyl / Plastic
+                            <material-icon icon="check_circle_outline" variant="success" />Rims
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Windows Inside / Outside
+                            <material-icon icon="check_circle_outline" variant="success" />Tire Shine
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Vacuum
+                            <material-icon icon="check_circle_outline" variant="success" />Hand Dry
+                        </li>
+                        <li>
+                            <material-icon icon="check_circle_outline" variant="success" />Claybar
+                        </li>
+                        <li>
+                            <material-icon icon="check_circle_outline" variant="success" />Machine Polish
+                        </li>
+                        <li>
+                            <material-icon icon="check_circle_outline" variant="success" />Hand Wax
+                        </li>
+                        <li>
+                            <material-icon icon="check_circle_outline" variant="success" />Vinyl / Plastic
+                        </li>
+                        <li>
+                            <material-icon icon="check_circle_outline" variant="success" />Leather
+                        </li>
+                        <li>
+                            <material-icon icon="check_circle_outline" variant="success" />Vacuum
+                        </li>
+                        <li>
+                            <material-icon icon="check_circle_outline" variant="success" />Shampoo
+                        </li>
+                        <li>
+                            <material-icon icon="check_circle_outline" variant="success" />Vinyl
+                        </li>
+                        <li>
+                            <material-icon icon="check_circle_outline" variant="success" />Windows Inside / Outside
                         </li>
                     </ul>
                 </div>
-
                 <div>
                     <h4 class="font-weight-bold">Price</h4>
-                    <h5>$50 - Any Vehicle</h5>
-                </div>
-            </div>
-        </div>
-
-        <!-- Wash/Wax/Vacuum/Windows -->
-        <div class="row pb-5">
-            <div class="col-12">
-                <div>
-                    <h2 class="text-muted">
-                        <span class="text-dark pr-2 font-weight-bold">Wash/Wax/Vacuum/Windows</span>(Interior & Exterior)
-                    </h2>
-                </div>
-
-                <div class="text-dark">
-                    <p
-                        class="service-description"
-                    >Exterior is washed, clay barred, hand dried, and waxed. Interior is vacuumed, vinyl / plastic is wiped down, and windows are cleaned.</p>
-
-                    <ul class="list-unstyled">
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Wash
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Hand Dry
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Claybar
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Wax
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Tire Shine
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Vinyl / Plastic
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Windows Inside / Outside
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Vacuum
-                        </li>
-                    </ul>
-                </div>
-
-                <div>
-                    <h4 class="font-weight-bold">Price</h4>
-                    <h5>$70 - Any Vehicle</h5>
+                    <h5>$180 - Passenger Cars / Wagons</h5>
+                    <h5>$190 - SUVs/ Mini Vans</h5>
+                    <h5>$200 - Trucks / Cargo Vans</h5>
                 </div>
             </div>
         </div>
@@ -136,22 +115,22 @@ li {
 
                     <ul class="list-unstyled">
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Door Jams
+                            <material-icon icon="check_circle_outline" variant="success" />Door Jams
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Vacuum
+                            <material-icon icon="check_circle_outline" variant="success" />Vacuum
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Shampoo
+                            <material-icon icon="check_circle_outline" variant="success" />Shampoo
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Leather
+                            <material-icon icon="check_circle_outline" variant="success" />Leather
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Vinyl / Plastic
+                            <material-icon icon="check_circle_outline" variant="success" />Vinyl / Plastic
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Windows Inside
+                            <material-icon icon="check_circle_outline" variant="success" />Windows Inside
                         </li>
                     </ul>
                 </div>
@@ -181,28 +160,28 @@ li {
 
                     <ul class="list-unstyled">
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Wash
+                            <material-icon icon="check_circle_outline" variant="success" />Wash
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Rims
+                            <material-icon icon="check_circle_outline" variant="success" />Rims
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Tire Shine
+                            <material-icon icon="check_circle_outline" variant="success" />Tire Shine
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Hand Dry
+                            <material-icon icon="check_circle_outline" variant="success" />Hand Dry
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Claybar
+                            <material-icon icon="check_circle_outline" variant="success" />Claybar
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Machine Buff
+                            <material-icon icon="check_circle_outline" variant="success" />Machine Buff
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Hand Wax
+                            <material-icon icon="check_circle_outline" variant="success" />Hand Wax
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Windows Outside
+                            <material-icon icon="check_circle_outline" variant="success" />Windows Outside
                         </li>
                     </ul>
                 </div>
@@ -216,73 +195,94 @@ li {
             </div>
         </div>
 
-        <!-- The Works -->
+        <!-- Wash/Vacuum/Windows -->
         <div class="row pb-5">
             <div class="col-12">
                 <div>
                     <h2 class="text-muted">
-                        <span class="font-weight-bold text-dark pr-2">The Works</span>(Interior & Exterior)
+                        <span class="text-dark pr-2 font-weight-bold">Wash/Vacuum/Windows</span>(Interior & Exterior)
                     </h2>
                 </div>
 
                 <div class="text-dark">
                     <p
                         class="service-description"
-                    >Full out detailing job. Wash, hand dry, clay bar, two stages of machine buffing (as needed), hand wax, and tire shine. Carpet / cloth is vacuumed and shampooed, leather is scrubbed / treated, vinyl and plastic is cleaned, windows are wiped down and the headliner is cleaned.</p>
+                    >Give your vehicle a touch up. Exterior is washed and hand dried. Interior is vacuumed, vinyl / plastic is wiped down, and windows are cleaned.</p>
 
                     <ul class="list-unstyled">
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Wash
+                            <material-icon icon="check_circle_outline" variant="success" />Wash
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Engine Bay
+                            <material-icon icon="check_circle_outline" variant="success" />Hand Dry
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Door Jams
+                            <material-icon icon="check_circle_outline" variant="success" />Tire Shine
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Rims
+                            <material-icon icon="check_circle_outline" variant="success" />Vinyl / Plastic
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Tire Shine
+                            <material-icon icon="check_circle_outline" variant="success" />Windows Inside / Outside
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Hand Dry
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Claybar
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Machine Polish
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Hand Wax
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Vinyl / Plastic
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Leather
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Vacuum
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Shampoo
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Vinyl
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success"/>Windows Inside / Outside
+                            <material-icon icon="check_circle_outline" variant="success" />Vacuum
                         </li>
                     </ul>
                 </div>
+
                 <div>
                     <h4 class="font-weight-bold">Price</h4>
-                    <h5>$180 - Passenger Cars / Wagons</h5>
-                    <h5>$190 - SUVs/ Mini Vans</h5>
-                    <h5>$200 - Trucks / Cargo Vans</h5>
+                    <h5>$50 - Any Vehicle</h5>
+                </div>
+            </div>
+        </div>
+
+        <!-- Wash/Wax/Vacuum/Windows -->
+        <div class="row pb-5">
+            <div class="col-12">
+                <div>
+                    <h2 class="text-muted">
+                        <span class="text-dark pr-2 font-weight-bold">Wash/Wax/Vacuum/Windows</span>(Interior & Exterior)
+                    </h2>
+                </div>
+
+                <div class="text-dark">
+                    <p
+                        class="service-description"
+                    >Exterior is washed, clay barred, hand dried, and waxed. Interior is vacuumed, vinyl / plastic is wiped down, and windows are cleaned.</p>
+
+                    <ul class="list-unstyled">
+                        <li>
+                            <material-icon icon="check_circle_outline" variant="success" />Wash
+                        </li>
+                        <li>
+                            <material-icon icon="check_circle_outline" variant="success" />Hand Dry
+                        </li>
+                        <li>
+                            <material-icon icon="check_circle_outline" variant="success" />Claybar
+                        </li>
+                        <li>
+                            <material-icon icon="check_circle_outline" variant="success" />Wax
+                        </li>
+                        <li>
+                            <material-icon icon="check_circle_outline" variant="success" />Tire Shine
+                        </li>
+                        <li>
+                            <material-icon icon="check_circle_outline" variant="success" />Vinyl / Plastic
+                        </li>
+                        <li>
+                            <material-icon icon="check_circle_outline" variant="success" />Windows Inside / Outside
+                        </li>
+                        <li>
+                            <material-icon icon="check_circle_outline" variant="success" />Vacuum
+                        </li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h4 class="font-weight-bold">Price</h4>
+                    <h5>$70 - Any Vehicle</h5>
                 </div>
             </div>
         </div>
