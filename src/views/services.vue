@@ -200,7 +200,7 @@ li {
             <div class="col-12">
                 <div>
                     <h2 class="text-muted">
-                        <span class="text-dark pr-2 font-weight-bold">Wash/Vacuum/Windows</span>(Interior & Exterior)
+                        <span class="text-dark pr-2 font-weight-bold">Express</span>(Interior & Exterior)
                     </h2>
                 </div>
 
@@ -243,14 +243,14 @@ li {
             <div class="col-12">
                 <div>
                     <h2 class="text-muted">
-                        <span class="text-dark pr-2 font-weight-bold">Wash/Wax/Vacuum/Windows</span>(Interior & Exterior)
+                        <span class="text-dark pr-2 font-weight-bold">Express + Wax</span>(Interior & Exterior)
                     </h2>
                 </div>
 
                 <div class="text-dark">
                     <p
                         class="service-description"
-                    >Exterior is washed, clay barred, hand dried, and waxed. Interior is vacuumed, vinyl / plastic is wiped down, and windows are cleaned.</p>
+                    >Exterior is washed, hand dried, and waxed. Interior is vacuumed, vinyl / plastic is wiped down, and windows are cleaned.</p>
 
                     <ul class="list-unstyled">
                         <li>
