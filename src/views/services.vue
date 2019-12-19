@@ -23,7 +23,13 @@ li {
         <div class="row">
             <div class="col-12 text-center pb-3 pb-lg-5">
                 <div class="d-flex flex-row align-items-center justify-content-center pb-3">
-                    <h1 class="display-4 text-center mb-0">Services</h1>
+                    <h1 class="display-4 text-center">Services</h1>
+                </div>
+                <div
+                    class="alert alert-info d-flex flex-row align-items-center justify-content-center"
+                >
+                    <i class="material-icons pr-3">info</i>
+                    Please note that all prices are for reasonably unclean vehicles. Issues such as dog hair, salt stains, and oxidization will be subject to additional fees between $20 to $80.
                 </div>
             </div>
         </div>
@@ -38,9 +44,10 @@ li {
                 </div>
 
                 <div class="text-dark">
-                    <p
-                        class="service-description"
-                    >Full out detailing job. Wash, hand dry, clay bar, two stages of machine buffing (as needed), hand wax, and tire shine. Carpet / cloth is vacuumed and shampooed, leather is scrubbed / treated, vinyl and plastic is cleaned, windows are wiped down and the headliner is cleaned.</p>
+                    <p class="service-description">
+                        Full out detailing job. Exterior is washed, hand dryed, clay barred, machine polish, hand wax, and tire shine. Carpet / cloth is vacuumed and shampooed,
+                        leather, vinyl and plastic is cleaned, windows are wiped down.
+                    </p>
 
                     <ul class="list-unstyled">
                         <li>
@@ -92,9 +99,9 @@ li {
                 </div>
                 <div>
                     <h4 class="font-weight-bold">Price</h4>
-                    <h5>$180 - Passenger Cars / Wagons</h5>
-                    <h5>$190 - SUVs/ Mini Vans</h5>
-                    <h5>$200 - Trucks / Cargo Vans</h5>
+                    <h5>$180 Coupes / Sedans / Wagons</h5>
+                    <h5>$190 - $220 SUVs / Mini Vans</h5>
+                    <h5>$200 - $260 Trucks / Cargo Vans</h5>
                 </div>
             </div>
         </div>
@@ -111,7 +118,7 @@ li {
                 <div class="text-dark">
                     <p
                         class="service-description"
-                    >Vacuum, shampoo cloth, and carpet, scrub / treat leather, clean vinyl and plastic, windows and headliner.</p>
+                    >Vacuum, shampoo cloth, and carpet, clean leather, vinyl, plastic, and windows.</p>
 
                     <ul class="list-unstyled">
                         <li>
@@ -137,9 +144,9 @@ li {
 
                 <div>
                     <h4 class="font-weight-bold">Price</h4>
-                    <h5>$100 - Passenger Cars / Wagons</h5>
-                    <h5>$110 - SUV / Mini Vans</h5>
-                    <h5>$120 - Trucks / Cargo Vans</h5>
+                    <h5>$100 - $110 Coupes / Sedans / Wagons</h5>
+                    <h5>$110 - $120 SUVs / Mini Vans</h5>
+                    <h5>$120 - $140 Trucks / Cargo Vans</h5>
                 </div>
             </div>
         </div>
@@ -156,7 +163,7 @@ li {
                 <div class="text-dark">
                     <p
                         class="service-description"
-                    >Wash, claybar, and two stages of machine buffing (as needed) to remove any swirls or scuffs in the paint. Paint is waxed for protection, and tires are shined.</p>
+                    >Wash, claybar, and machine polish to remove any swirls or scuffs in the paint. Paint is waxed for protection, and tires are shined.</p>
 
                     <ul class="list-unstyled">
                         <li>
@@ -188,9 +195,9 @@ li {
 
                 <div>
                     <h4 class="font-weight-bold">Price</h4>
-                    <h5>$100 - Passenger Cars / Wagons</h5>
-                    <h5>$110 - SUVs / Mini Vans</h5>
-                    <h5>$120 - Trucks / Cargo Vans</h5>
+                    <h5>$100 Coupes / Sedans / Wagons</h5>
+                    <h5>$110 - $120 SUVs / Mini Vans</h5>
+                    <h5>$120 - $140 Trucks / Cargo Vans</h5>
                 </div>
             </div>
         </div>
@@ -200,7 +207,7 @@ li {
             <div class="col-12">
                 <div>
                     <h2 class="text-muted">
-                        <span class="text-dark pr-2 font-weight-bold">Express</span>(Interior & Exterior)
+                        <span class="text-dark pr-2 font-weight-bold">Touch Up</span>(Interior & Exterior)
                     </h2>
                 </div>
 
@@ -233,7 +240,7 @@ li {
 
                 <div>
                     <h4 class="font-weight-bold">Price</h4>
-                    <h5>$50 - Any Vehicle</h5>
+                    <h5>$50 Any Vehicle</h5>
                 </div>
             </div>
         </div>
@@ -243,7 +250,7 @@ li {
             <div class="col-12">
                 <div>
                     <h2 class="text-muted">
-                        <span class="text-dark pr-2 font-weight-bold">Express + Wax</span>(Interior & Exterior)
+                        <span class="text-dark pr-2 font-weight-bold">Touch Up + Wax</span>(Interior & Exterior)
                     </h2>
                 </div>
 
@@ -258,9 +265,6 @@ li {
                         </li>
                         <li>
                             <material-icon icon="check_circle_outline" variant="success" />Hand Dry
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Claybar
                         </li>
                         <li>
                             <material-icon icon="check_circle_outline" variant="success" />Wax
@@ -282,7 +286,7 @@ li {
 
                 <div>
                     <h4 class="font-weight-bold">Price</h4>
-                    <h5>$70 - Any Vehicle</h5>
+                    <h5>$70 Any Vehicle</h5>
                 </div>
             </div>
         </div>
