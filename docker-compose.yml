@@ -6,10 +6,10 @@ services:
             - 8080
         build: .
         environment:
-            - VIRTUAL_HOST= edsautodetailing.com, www.edsautodetailing.com
-            - VIRTUAL_PORT= 8080
-            - VIRTUAL_PROTO= http
-            - LETSENCRYPT_HOST= edsautodetailing.com, www.edsautodetailing.com
+            - VIRTUAL_HOST=edsautodetailing.com,www.edsautodetailing.com
+            - VIRTUAL_PORT=8080
+            - VIRTUAL_PROTO=http
+            - LETSENCRYPT_HOST=edsautodetailing.com,www.edsautodetailing.com
         restart: always
         container_name: edsautodetailing.com
 
