@@ -39,69 +39,59 @@ li {
             <div class="col-12">
                 <div>
                     <h2 class="text-muted">
-                        <span class="font-weight-bold text-dark pr-2">The Works</span>(Interior & Exterior)
+                        <span class="font-weight-bold text-dark pr-2">Full Detail</span>Starts at $250
                     </h2>
                 </div>
 
                 <div class="text-dark">
-                    <p class="service-description">
-                        Full out detailing job. Exterior is washed, hand dryed, clay barred, machine polish, hand wax, and tire shine. Carpet / cloth is vacuumed and shampooed,
-                        leather, vinyl and plastic is cleaned, windows are wiped down.
-                    </p>
+                    <p
+                        class="service-description"
+                    >A comprehensive inside and out detail that cleans, enhances, and protects your vehicle. Designed for vehicles in average condition, but can be extended via add-ons to address more severe issues.</p>
 
                     <ul class="list-unstyled">
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Wash
+                            <material-icon icon="check_circle_outline" variant="success" />Tires and rims cleaned
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Engine Bay
+                            <material-icon icon="check_circle_outline" variant="success" />Wheel wells cleaned
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Door Jams
+                            <material-icon icon="check_circle_outline" variant="success" />Paint decontaminated
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Rims
+                            <material-icon icon="check_circle_outline" variant="success" />Hand washed
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Tire Shine
+                            <material-icon icon="check_circle_outline" variant="success" />Hand dried
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Hand Dry
+                            <material-icon icon="check_circle_outline" variant="success" />Machine polished and waxed
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Claybar
+                            <material-icon icon="check_circle_outline" variant="success" />Exterior windows cleaned
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Machine Polish
+                            <material-icon icon="check_circle_outline" variant="success" />Tires shined
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Hand Wax
+                            <material-icon icon="check_circle_outline" variant="success" />Interior vacuumed
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Vinyl / Plastic
+                            <material-icon icon="check_circle_outline" variant="success" />Carpets, upholstery, headliner, and floor mats spot treated
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Leather
+                            <material-icon icon="check_circle_outline" variant="success" />Vinyl, and plastics cleaned and protected
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Vacuum
+                            <material-icon icon="check_circle_outline" variant="success" />Leather cleaned and protected
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Shampoo
+                            <material-icon icon="check_circle_outline" variant="success" />Interior windows cleaned
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Vinyl
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Windows Inside / Outside
+                            <material-icon icon="check_circle_outline" variant="success" />Door jams cleaned
                         </li>
                     </ul>
-                </div>
-                <div>
-                    <h4 class="font-weight-bold">Price</h4>
-                    <h5>$180 Coupes / Sedans / Wagons</h5>
-                    <h5>$190 - $220 SUVs / Mini Vans</h5>
-                    <h5>$200 - $260 Trucks / Cargo Vans</h5>
                 </div>
             </div>
         </div>
@@ -111,7 +101,7 @@ li {
             <div class="col-12">
                 <div>
                     <h2 class="text-muted">
-                        <span class="font-weight-bold text-dark pr-2">Interior Deep Clean</span>(Interior)
+                        <span class="font-weight-bold text-dark pr-2">Interior Detail</span>Starts at $150
                     </h2>
                 </div>
 
@@ -122,31 +112,21 @@ li {
 
                     <ul class="list-unstyled">
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Door Jams
+                            <material-icon icon="check_circle_outline" variant="success" />Interior vacuumed
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Vacuum
+                            <material-icon icon="check_circle_outline" variant="success" />Carpets, upholstery, headliner, and floor mats spot treated
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Shampoo
+                            <material-icon icon="check_circle_outline" variant="success" />Vinyl, and plastics cleaned and protected
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Leather
+                            <material-icon icon="check_circle_outline" variant="success" />Leather cleaned and protected
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Vinyl / Plastic
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Windows Inside
+                            <material-icon icon="check_circle_outline" variant="success" />Interior windows cleaned
                         </li>
                     </ul>
-                </div>
-
-                <div>
-                    <h4 class="font-weight-bold">Price</h4>
-                    <h5>$100 - $110 Coupes / Sedans / Wagons</h5>
-                    <h5>$110 - $120 SUVs / Mini Vans</h5>
-                    <h5>$120 - $140 Trucks / Cargo Vans</h5>
                 </div>
             </div>
         </div>
@@ -156,137 +136,41 @@ li {
             <div class="col-12">
                 <div>
                     <h2 class="text-muted">
-                        <span class="font-weight-bold text-dark pr-2">Exterior Buff & Wax</span>(Exterior)
+                        <span class="font-weight-bold text-dark pr-2">Exterior Detail</span>Starts at $150
                     </h2>
                 </div>
 
                 <div class="text-dark">
                     <p
                         class="service-description"
-                    >Wash, claybar, and machine polish to remove any swirls or scuffs in the paint. Paint is waxed for protection, and tires are shined.</p>
+                    >A thorough exterior detail designed to clean, enhance, and protect. Perfect for vehicles with light wear, but more severe issues such as sap/pitch, fallout, and more can be fixed via add-ons.</p>
 
                     <ul class="list-unstyled">
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Wash
+                            <material-icon icon="check_circle_outline" variant="success" />Tires and rims cleaned
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Rims
+                            <material-icon icon="check_circle_outline" variant="success" />Wheel wells cleaned
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Tire Shine
+                            <material-icon icon="check_circle_outline" variant="success" />Paint decontaminated
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Hand Dry
+                            <material-icon icon="check_circle_outline" variant="success" />Hand washed
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Claybar
+                            <material-icon icon="check_circle_outline" variant="success" />Hand dried
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Machine Buff
+                            <material-icon icon="check_circle_outline" variant="success" />Machine polished and waxed
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Hand Wax
+                            <material-icon icon="check_circle_outline" variant="success" />Exterior windows cleaned
                         </li>
                         <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Windows Outside
+                            <material-icon icon="check_circle_outline" variant="success" />Tires shined
                         </li>
                     </ul>
-                </div>
-
-                <div>
-                    <h4 class="font-weight-bold">Price</h4>
-                    <h5>$100 Coupes / Sedans / Wagons</h5>
-                    <h5>$110 - $120 SUVs / Mini Vans</h5>
-                    <h5>$120 - $140 Trucks / Cargo Vans</h5>
-                </div>
-            </div>
-        </div>
-
-        <!-- Wash/Vacuum/Windows -->
-        <div class="row pb-5">
-            <div class="col-12">
-                <div>
-                    <h2 class="text-muted">
-                        <span class="text-dark pr-2 font-weight-bold">Touch Up</span>(Interior & Exterior)
-                    </h2>
-                </div>
-
-                <div class="text-dark">
-                    <p
-                        class="service-description"
-                    >Give your vehicle a touch up. Exterior is washed and hand dried. Interior is vacuumed, vinyl / plastic is wiped down, and windows are cleaned.</p>
-
-                    <ul class="list-unstyled">
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Wash
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Hand Dry
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Tire Shine
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Vinyl / Plastic
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Windows Inside / Outside
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Vacuum
-                        </li>
-                    </ul>
-                </div>
-
-                <div>
-                    <h4 class="font-weight-bold">Price</h4>
-                    <h5>$50 Any Vehicle</h5>
-                </div>
-            </div>
-        </div>
-
-        <!-- Wash/Wax/Vacuum/Windows -->
-        <div class="row pb-5">
-            <div class="col-12">
-                <div>
-                    <h2 class="text-muted">
-                        <span class="text-dark pr-2 font-weight-bold">Touch Up + Wax</span>(Interior & Exterior)
-                    </h2>
-                </div>
-
-                <div class="text-dark">
-                    <p
-                        class="service-description"
-                    >Exterior is washed, hand dried, and waxed. Interior is vacuumed, vinyl / plastic is wiped down, and windows are cleaned.</p>
-
-                    <ul class="list-unstyled">
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Wash
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Hand Dry
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Wax
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Tire Shine
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Vinyl / Plastic
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Windows Inside / Outside
-                        </li>
-                        <li>
-                            <material-icon icon="check_circle_outline" variant="success" />Vacuum
-                        </li>
-                    </ul>
-                </div>
-
-                <div>
-                    <h4 class="font-weight-bold">Price</h4>
-                    <h5>$70 Any Vehicle</h5>
                 </div>
             </div>
         </div>
