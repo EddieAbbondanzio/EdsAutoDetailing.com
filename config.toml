@@ -3,7 +3,4 @@ languageCode = "en-us"
 title = "Ed's Auto Detailing"
 theme = "blank"
 
-[taxonomies]
-  tag = ""
-  group = ""
-  category = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]

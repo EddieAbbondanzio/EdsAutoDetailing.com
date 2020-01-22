@@ -14,7 +14,12 @@
 
 	{{/*  Compile SCSS  */}}
     {{ $styles := resources.Get "styles/main.sass" | toCSS | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+	<link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+<script src="{{"js/interactivity.js" | relURL}}"></script>
 </head>
 <body>
 	{{ partial "header" . }}

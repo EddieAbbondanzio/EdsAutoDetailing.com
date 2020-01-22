@@ -1,6 +1,5 @@
 +++ 
 title = "Full Detail" 
-type = "services"
 +++
 
 We'll add some descriptions here.
