@@ -11,6 +11,10 @@
 	{{ with .OutputFormats.Get "RSS" -}}
 		{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
+
+	{{/*  Compile SCSS  */}}
+    {{ $styles := resources.Get "styles/main.sass" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
 </head>
 <body>
 	{{ partial "header" . }}
