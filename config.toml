@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ed's Auto Detailing"
+theme = "blank"
