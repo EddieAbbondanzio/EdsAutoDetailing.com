@@ -1,4 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://edsautodetailing.com/"
 languageCode = "en-us"
 title = "Ed's Auto Detailing"
 theme = "blank"
+
+[taxonomies]
+  tag = ""
+  group = ""
+  category = ""
