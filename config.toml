@@ -4,3 +4,34 @@ title = "Ed's Auto Detailing"
 theme = "blank"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[menu]
+    [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+    [[menu.main]]
+    identifier = "services"
+    name = "Services"
+    url = "/services"
+    weight = 2
+
+    [[menu.main]]
+    identifier = "faqs"
+    name = "FAQs"
+    url = "/frequently-asked-questions"
+    weight = 3
+
+    [[menu.main]]
+    identifier = "location"
+    name = "Location"
+    url = "/location"
+    weight = 4
+
+    [[menu.main]]
+    identifier = "contact-us"
+    name = "Contact Us"
+    url = "/contact-us"
+    weight = 5
