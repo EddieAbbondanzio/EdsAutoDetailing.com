@@ -1,8 +1,12 @@
 +++ 
 title = "Location" 
-type = "test"
+type = "page"
+layout = "location"
 +++
 
-{{ .Type }}
+Conveniently located between the Gardiner Car And Truck Wash and Dave's Dinner off Brunswick Ave we're hard to miss.
 
-Location
+<h1 class="is-size-3">
+    396 Brunswick Ave <br />
+    Gardiner, ME 04345
+</h1>

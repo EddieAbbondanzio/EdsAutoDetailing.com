@@ -1,25 +1,10 @@
 {{ define "main" }}
-	<main>
+	<main class="has-margin-y-3">
 		<article>
-			<h1>{{ .Title }}</h1>
-			<time>{{ .Date.Format "02.01.2006 15:04" }}</time>
+			<h1 class="is-size-4-mobile is-size-2-tablet has-text-centered">{{ .Title }}</h1>
 			<div>
 				{{ .Content }}
 			</div>
-			{{ with .Params.tags }}
-			<div>
-				<ul id="tags">
-					{{ range . }}
-					<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
-					{{ end }}
-				</ul>
-			</div>
-			{{ end }}
-			{{ with .Site.DisqusShortname }}
-			<div>
-				{{ template "_internal/disqus.html" . }}
-			</div>
-			{{ end }}
 		</article>
 	</main>
 {{ end }}
