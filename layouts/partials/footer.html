@@ -1,3 +1,20 @@
-<footer class="has-background-black-bis has-text-white">
-	<p>&copy; 2019 <a class="has-text-white" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></p>
+<footer class="has-background-black-bis has-text-white has-padding-y-5">
+	<div class="container">
+		<div class="level has-padding-bottom-3">
+			{{ range .Site.Menus.main }}
+				<div class="level-item">
+					<a class="has-text-white" href="{{ .URL | relURL }}">{{ .Name }}</a>
+				</div>
+			{{ end }}
+		</div>
+			
+		<div class="is-flex is-flex-column is-align-center">
+			<p>&copy; 2019-2020 <a class="has-text-white" href="{{ .Site.BaseURL }}">Ed's Auto Detailing LLC</a></p>
+<!-- 
+			<div class="column is-flex is-flex-row is-align-center">
+				<span class="has-margin-right-2">Follow Us</span>
+				<img src="/images/facebook_logo.png" style="height:32px; width: 32px;"/>
+			</div> -->
+		</div>
+	</div>
 </footer>

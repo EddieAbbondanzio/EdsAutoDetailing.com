@@ -1,11 +1,11 @@
 <header>
 	<div class="has-background-black-bis has-text-white has-padding-all-2">
 	<div class="container">
-		<div class="level">
+		<div class="level is-mobile">
 			<div class="level-left">
 				<div class="level-item">
 					<a class="has-text-white is-flex is-flex-row" href="tel:2072137547">
-						<i class="material-icons has-margin-right-1">phone</i>
+						<i class="material-icons has-margin-right-2">phone</i>
 						207-213-7547
 					</a>
 				</div>
@@ -13,7 +13,8 @@
 
 			<div class="level-right">
 				<div class="level-item">
-					<a href="https://www.facebook.com/EdsAutoDetailingMaine/" target="_blank">
+					<a class="has-text-white is-flex is-flex-row is-align-center" href="https://www.facebook.com/EdsAutoDetailingMaine/" target="_blank">
+						<span class="has-margin-right-2">Follow Us</span>
 						<img src="/images/facebook_logo.png" style="height:32px;"/>
 					</a>
 				</div>
@@ -22,33 +23,31 @@
 	</div>
 </div>
 
-<nav class="navbar is-primary has-padding-y-1" role="navigation" aria-label="main navigation">
-	<div class="container">
-		<div class="navbar-brand">
-		<a class="navbar-item" href="{{ .Site.BaseURL }}">
-			<img src="/images/logo_white.png" class="has-margin-right-2" style="max-height: 64px;">
-			<h1 class="has-text-weight-medium is-size-3">
-				Ed's Auto Detailing
-			</h1>
-		</a>
-	
-		<a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-			<span aria-hidden="true"></span>
-			<span aria-hidden="true"></span>
-			<span aria-hidden="true"></span>
-		</a>
-		</div>
-	
-		<div id="navbarBasicExample" class="navbar-menu">
-			<div class="navbar-end">
-				{{ with .Site.Menus.main }}
-					{{ range . }}
+	<nav class="navbar is-primary has-padding-y-1" role="navigation" aria-label="main navigation">
+		<div class="container">
+			<div class="navbar-brand is-flex is-align-center">
+			<a class="navbar-item" href="{{ .Site.BaseURL }}">
+				<img src="/images/logo_white.png" class="has-margin-right-2" style="max-height: 64px;">
+				<h1 class="has-text-weight-medium is-size-4-mobile is-size-3-tablet">
+					Ed's Auto Detailing
+				</h1>
+			</a>
+		
+			<a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbar">
+				<span aria-hidden="true"></span>
+				<span aria-hidden="true"></span>
+				<span aria-hidden="true"></span>
+			</a>
+			</div>
+		
+			<div id="navbar" class="navbar-menu">
+				<div class="navbar-end">
+					{{ range .Site.Menus.main }}
 						<a class="navbar-item" href="{{ .URL | relURL }}">{{ .Name }}</a>
 					{{ end }}
-				{{ end }}
+				</div>
 			</div>
 		</div>
-	</div>
 	</nav>
 	  
 	  
