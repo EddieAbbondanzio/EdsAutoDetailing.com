@@ -1,17 +1,84 @@
 {{ define "main" }}
-	<main>
-		Below is a list of services we offer.
-
-		{{ if or .Title .Content }}
-		<div>
-			{{ with .Title }}<h1>{{ . }}</h1>{{ end }}
-			{{ with .Content }}<div>{{ . }}</div>{{ end }}
+<main class="has-margin-y-5 has-margin-x-2">
+	<div class="container">
+		<div class=" has-margin-bottom-5">
+			<h1 class="is-size-4-mobile is-size-2-tablet has-text-centered has-margin-bottom-3">{{ .Title }}</h1>
+			
+			<div class="notification is-warning is-size-5 is-flex is-flex-row is-align-center">
+				<i class="material-icons has-margin-right-1">info</i>
+				{{ .Content }}
+			</div>
 		</div>
-		{{ end }}
 
-		{{ range .Paginator.Pages }}
-			{{ .Render "summary" }}
-		{{ end }}
-		{{ partial "pagination.html" . }}
+		<h2 class="is-size-1">Interior</h2>
+
+		<div class="columns is-3">
+			<div class="column">
+				<div class="is-flex is-flex-column is-align-center has-padding-x-3 has-padding-bottom-3">
+					<h2 class="is-size-3 title has-padding-bottom-3">Standard</h2>
+					<p class="is-size-5 subtitle">For vehicles with average wear and tear. An extra thorough cleaning that's perfect to help restore a well maintained vehicle back to like new.</p>
+				</div>
+
+				<div class="is-size-4 is-flex is-flex-row is-justify-center has-padding-bottom-3">
+					<div class="is-flex is-flex-column has-padding-right-2">
+						<div>Most Cars:</div>
+						<div>Mid-Size SUVs:</div>
+						<div>Full-Size SUVs / Trucks:</div>
+					</div>
+
+					<div class="is-flex is-flex-column">
+						<div>$150+</div>
+						<div>$170+</div>
+						<div>$190+</div>
+					</div>
+				</div>
+
+				<div class="has-text-centered">
+					<div class="is-inline-block is-size-5">
+						<div class="is-flex is-flex-row is-align-center has-padding-y-1"><i class="material-icons has-text-success has-padding-right-1">check_circle</i>Compressed air blast out</div>
+						<div class="is-flex is-flex-row is-align-center has-padding-y-1"><i class="material-icons has-text-success has-padding-right-1">check_circle</i>Interior thoroughly vacuumed</div class="is-flex is-flex-row">
+						<div class="is-flex is-flex-row is-align-center has-padding-y-1"><i class="material-icons has-text-success has-padding-right-1">check_circle</i>Headliner spot treated</div class="is-flex is-flex-row">
+						<div class="is-flex is-flex-row is-align-center has-padding-y-1"><i class="material-icons has-text-success has-padding-right-1">check_circle</i>Carpet, floor mats, upholstery spot treated</div class="is-flex is-flex-row">
+						<div class="is-flex is-flex-row is-align-center has-padding-y-1"><i class="material-icons has-text-success has-padding-right-1">check_circle</i>Vinyl, plastic cleaned and protected</div class="is-flex is-flex-row">
+						<div class="is-flex is-flex-row is-align-center has-padding-y-1"><i class="material-icons has-text-success has-padding-right-1">check_circle</i>Leather protected</div class="is-flex is-flex-row">
+						<div class="is-flex is-flex-row is-align-center has-padding-y-1"><i class="material-icons has-text-success has-padding-right-1">check_circle</i>Interior windows cleaned</div class="is-flex is-flex-row">
+					</div>
+				</div>
+			</div>
+
+			<div class="column">
+				<div class="is-flex is-flex-column is-align-center has-padding-x-3 has-padding-bottom-3">
+					<h2 class="is-size-3 title has-padding-bottom-3">Deep Clean</h2>
+					<p class="is-size-5 subtitle">For vehicles that need some attention. An intensive interior cleaning that goes the extra mile. Ideal for vehicles with salt deposits, heavy staining, excessive dust, and more. Recommended to leave the vehicle overnight for drying.</p> 
+				</div>
+
+				<div class="is-size-4 is-flex is-flex-row is-justify-center has-padding-bottom-3">
+					<div class="is-flex is-flex-column has-padding-right-2">
+						<div>Most Cars:</div>
+						<div>Mid-Size SUVs:</div>
+						<div>Full-Size SUVs / Trucks:</div>
+					</div>
+
+					<div class="is-flex is-flex-column">
+						<div>$230+</div>
+						<div>$250+</div>
+						<div>$270+</div>
+					</div>
+				</div>
+
+				<div class="has-text-centered">
+					<div class="is-inline-block is-size-5">
+						<div class="is-flex is-flex-row is-align-center has-padding-y-1"><i class="material-icons has-text-success has-padding-right-1">check_circle</i>Compressed air blast out</div>
+						<div class="is-flex is-flex-row is-align-center has-padding-y-1"><i class="material-icons has-text-success has-padding-right-1">check_circle</i>Interior thoroughly vacuumed</div class="is-flex is-flex-row">
+						<div class="is-flex is-flex-row is-align-center has-padding-y-1"><i class="material-icons has-text-success has-padding-right-1">check_circle</i>Headliner spot treated</div class="is-flex is-flex-row">
+						<div class="is-flex is-flex-row is-align-center has-padding-y-1"><i class="material-icons has-text-success has-padding-right-1">check_circle</i>Carpet, floor mats, upholstery spot treated</div class="is-flex is-flex-row">
+							<div class="is-flex is-flex-row is-align-center has-padding-y-1"><i class="material-icons has-text-success has-padding-right-1">check_circle</i>Carpet, floor mats, upholstery extracted</div class="is-flex is-flex-row">
+						<div class="is-flex is-flex-row is-align-center has-padding-y-1"><i class="material-icons has-text-success has-padding-right-1">check_circle</i>Vinyl, plastic cleaned and protected</div class="is-flex is-flex-row">
+						<div class="is-flex is-flex-row is-align-center has-padding-y-1"><i class="material-icons has-text-success has-padding-right-1">check_circle</i>Leather protected</div class="is-flex is-flex-row">
+						<div class="is-flex is-flex-row is-align-center has-padding-y-1"><i class="material-icons has-text-success has-padding-right-1">check_circle</i>Interior windows cleaned</div class="is-flex is-flex-row">
+					</div>
+				</div>
+			</div>
+		</div>
 	</main>
 {{ end }}

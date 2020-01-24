@@ -1,35 +1,36 @@
 {{ define "main" }}
-	<main class="has-margin-y-3 has-margin-x-2">
+	<main class="has-margin-y-5 has-margin-x-2">
         <div class="container">
             <h1 class="is-size-4-mobile is-size-2-tablet has-text-centered has-margin-bottom-5">{{ .Title }}</h1>
                 
-            <div class="columns">
-                <div class="column">
-                    <article class="has-text-centered">
-                        {{ .Content }}
-                    </article>
-                </div>
-                
-                <div class="column is-flex is-justify-center">
-                    <div class="mapouter is-hidden-tablet" style="height: 320px; width: 320px;">
-                        <div class="gmap_canvas" style="height: 320px; width: 320px;">
-                            <iframe  width="320" height="320" id="gmap_canvas" src="https://maps.google.com/maps?q=396%20Brunswick%20Ave%20Gardiner%20Me&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe >
-                        </div>
-                        <style>
-                            .mapouter{position:relative;text-align:right;height:320px;width:320px;}
-                            .gmap_canvas {overflow:hidden;background:none!important;height:320px;width:320px;}
-                        </style>
-                    </div>
+            <div class="is-flex is-flex-column is-align-center">
+                <article class="has-text-centered">
+                    {{ .Content }}
+                </article>
 
-                    <div style="height: 600px;" class="column mapouter is-hidden-mobile">
-                        <div class="gmap_canvas">
-                            <iframe  width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=396%20Brunswick%20Ave%20Gardiner%20Me&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe >
-                        </div>
-                        <style>
-                            .mapouter{position:relative;text-align:right;height:500px;width:600px;}
-                            .gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}
-                        </style>
+                <p class="is-size-4">
+                    396 Brunswick Ave<br />
+                    Gardiner, ME 04345
+                </p>
+                
+                <div class="mapouter is-hidden-tablet" style="height: 320px; width: 320px;">
+                    <div class="gmap_canvas" style="height: 320px; width: 320px;">
+                        <iframe  width="320" height="320" id="gmap_canvas" src="https://maps.google.com/maps?q=396%20Brunswick%20Ave%20Gardiner%20Me&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe >
                     </div>
+                    <style>
+                        .mapouter{position:relative;text-align:right;height:320px;width:320px;}
+                        .gmap_canvas {overflow:hidden;background:none!important;height:320px;width:320px;}
+                    </style>
+                </div>
+
+                <div style="height: 600px;" class="column mapouter is-hidden-mobile">
+                    <div class="gmap_canvas">
+                        <iframe  width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=396%20Brunswick%20Ave%20Gardiner%20Me&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe >
+                    </div>
+                    <style>
+                        .mapouter{position:relative;text-align:right;height:500px;width:600px;}
+                        .gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}
+                    </style>
                 </div>
             </div>
         </div>
