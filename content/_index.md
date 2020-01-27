@@ -1,5 +1,5 @@
 +++ 
-title = "Home" 
+title = "Ed's Auto Detailing" 
 type = "page"
 layout = "home"
 +++
