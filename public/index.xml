@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ed&#39;s Auto Detailing</title>
+    <title>Home on Ed&#39;s Auto Detailing</title>
     <link>https://edsautodetailing.com/</link>
-    <description>Recent content on Ed&#39;s Auto Detailing</description>
+    <description>Recent content in Home on Ed&#39;s Auto Detailing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -16,16 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://edsautodetailing.com/contact-us/</guid>
-      <description>Contact Us</description>
-    </item>
-    
-    <item>
-      <title>Exterior Detail</title>
-      <link>https://edsautodetailing.com/services/exterior-detail/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://edsautodetailing.com/services/exterior-detail/</guid>
-      <description>We&#39;ll add some descriptions here. And create some children&amp;hellip;</description>
+      <description>Have a question, or want to set up an appointment? Give us a shout we&#39;re easy to reach.
+phone 207-213-7547  email contact@edsautodetailing.com </description>
     </item>
     
     <item>
@@ -34,25 +26,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://edsautodetailing.com/frequently-asked-questions/</guid>
-      <description>FAQs</description>
-    </item>
-    
-    <item>
-      <title>Full Detail</title>
-      <link>https://edsautodetailing.com/services/full-detail/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://edsautodetailing.com/services/full-detail/</guid>
-      <description>We&#39;ll add some descriptions here. And create some children&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Interior Detail</title>
-      <link>https://edsautodetailing.com/services/interior-detail/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://edsautodetailing.com/services/interior-detail/</guid>
-      <description>We&#39;ll add some descriptions here. And create some children&amp;hellip;</description>
+      <description>How do you quote details? We quote based off vehicle size, and condition. Since it can be difficult to assess the condition of the vehicle over the phone we&#39;ll give you a price range of what the cost could be. Upon seeing the vehicle we can give an absolute amount and promise not to raise the price after completing the job. All quotes are valid for 30 days.
+Do you accept credit cards?</description>
     </item>
     
     <item>
@@ -61,8 +36,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://edsautodetailing.com/location/</guid>
-      <description>{{ .Type }}
-Location</description>
+      <description>Conveniently located between the Gardiner Car And Truck Wash and Dave&#39;s Dinner off Brunswick Ave we&#39;re hard to miss.</description>
     </item>
     
   </channel>
