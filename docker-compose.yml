@@ -3,11 +3,11 @@ version: '3'
 services:
     edsautodetailing:
         expose:
-            - 8080
+            - 80
         build: .
         environment:
             - VIRTUAL_HOST=edsautodetailing.com,www.edsautodetailing.com
-            - VIRTUAL_PORT=8080
+            - VIRTUAL_PORT=80
             - VIRTUAL_PROTO=http
             - LETSENCRYPT_HOST=edsautodetailing.com,www.edsautodetailing.com
         restart: always
