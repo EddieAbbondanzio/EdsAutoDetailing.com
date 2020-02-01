@@ -4,4 +4,4 @@ type = "page"
 layout = "location"
 +++
 
-Conveniently located between the Gardiner Car And Truck Wash and Dave's Dinner off Brunswick Ave we're hard to miss.
+Conveniently located next to the <a href="https://gardinercarandtruckwash.com" target="_blank">Gardiner Car And Truck Wash</a> off Brunswick Ave we're hard to miss.
