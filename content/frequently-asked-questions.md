@@ -17,7 +17,7 @@ Please give us a call, or send us an email if you'd like to schedule an appointm
 
 ## What are your hours?
 
-Ed's Auto Detailing doesn't have set hours as we schedule by appointment. Typically we are open Monday to Friday 8AM to 4PM with some variance in what time we close.
+We are open Monday to Friday 8AM to 4PM with some variance in what time we close. During winter we may be closed, or close early due to lower demand.
 
 ## What do I need to do to prepare my vehicle?
 
