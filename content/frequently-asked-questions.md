@@ -17,7 +17,7 @@ Please give us a call, or send us an email if you'd like to schedule an appointm
 
 ## What are your hours?
 
-We are open Monday to Friday 8AM to 4PM with some variance in what time we close. During winter we may be closed, or close early due to lower demand.
+We are open Monday to Friday 8AM to 4PM with some variance in what time we close. During winter we may be closed on some days, or close early due to lower demand.
 
 ## What do I need to do to prepare my vehicle?
 
