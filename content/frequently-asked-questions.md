@@ -1,6 +1,7 @@
 +++ 
 title = "Frequently Asked Questions" 
 type = "page"
+description = "Frequently asked questions. Don't see what you're looking for? Feel free to call us."
 +++
 
 ## How do you quote details?
@@ -9,7 +10,7 @@ We quote based off vehicle size, and condition. Since it can be difficult to ass
 
 ## Do you accept credit cards?
 
-We accept credit cards, debit cards, cash and checks made out to "Ed's Auto Detailing". 
+We accept credit cards, debit cards, cash and checks made out to "Ed's Auto Detailing".  
 
 ## How do I schedule an appointment?
 

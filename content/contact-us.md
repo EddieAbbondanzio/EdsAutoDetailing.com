@@ -1,6 +1,7 @@
 +++ 
 title = "Contact Us" 
 type = "page"
+description = "Have a question, or want to set up an appointment? Give us a shout we're easy to reach."
 +++
 
 Have a question, or want to set up an appointment? Give us a shout we're easy to reach. 
