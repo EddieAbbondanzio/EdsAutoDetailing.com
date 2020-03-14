@@ -40,3 +40,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     name = "Contact Us"
     url = "/contact-us"
     weight = 5
+
+    [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog"
+    weight = 6
