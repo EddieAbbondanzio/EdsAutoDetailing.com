@@ -1,0 +1,9 @@
+# edsautodetailing.com
+
+This is the website for my automotive detailing business I run. It's built on Hugo and it's pretty killer. 
+
+
+[In Action](https://edsautodetailing.com)
+
+Images are powered via https://github.com/liwenyip/hugo-easy-gallery.
+Use figure shortcodes in blog posts: https://gohugo.io/content-management/shortcodes/
