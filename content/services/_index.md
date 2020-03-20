@@ -1,6 +1,4 @@
 +++ 
 title = "Services" 
-description = "Services and prices for our details. Pricing is based off size and condition of the vehicle."
+description = "Our carefully crafted services are designed to accommodate vehicles of all condition."
 +++
-
-Please note that prices may vary based on the condition and size of the vehicle
