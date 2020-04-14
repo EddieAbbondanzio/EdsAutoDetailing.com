@@ -2,5 +2,5 @@
   HUGO_VERSION = "0.53"
 
 [build]
-publish = "public"
-command = "command = "hugo --gc --minify --buildFuture -b https://5e95d0cc2f3b53000764b0f5--stupefied-blackwell-4e6598.netlify.com/"
+  publish = "public"
+  command = "command = "hugo --gc --minify --buildFuture -b https://5e95d0cc2f3b53000764b0f5--stupefied-blackwell-4e6598.netlify.com/"
