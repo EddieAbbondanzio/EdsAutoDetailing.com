@@ -46,3 +46,52 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     name = "Blog"
     url = "/blog"
     weight = 6
+
+    [[menu.main]]
+    identifier = "premium-full-detail"
+    name = "Premium Full Detail"
+    parent = "services"
+    url = "/services/premium-full-detail"
+    weight = 1
+
+    [[menu.main]]
+    identifier = "interior-deep-clean"
+    name = "Interior Deep Clean"
+    parent = "services"
+    url="/services/interior-deep-clean"
+    weight = 2
+
+    [[menu.main]]
+    identifier = "exterior-refresh"
+    name = "Exterior Refresh"
+    parent = "services"
+    url="/services/exterior-refresh"
+    weight = 3
+
+    [[menu.main]]
+    identifier = "headlight-restoration"
+    name = "Headlight Restoration"
+    parent = "services"
+    url="/services/headlight-restoration"
+    weight = 4
+
+    [[menu.main]]
+    identifier = "ozone-odor-removal"
+    name = "Ozone Odor Removal"
+    parent = "services"
+    url="/services/ozone-odor-removal"
+    weight = 5
+
+    [[menu.main]]
+    identifier = "interior-spill-cleanup"
+    name = "Interior Spill Cleanup"
+    parent = "services"
+    url="/services/interior-spill-cleanup"
+    weight = 6
+
+    [[menu.main]]
+    identifier = "vinyl-decal-removal"
+    name = "Vinyl / Decal Removal"
+    parent = "services"
+    url="/services/vinyl-decal-removal"
+    weight = 7
