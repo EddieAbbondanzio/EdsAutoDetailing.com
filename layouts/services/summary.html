@@ -1,12 +1,38 @@
 <article class="column">
-	<div class="has-background-info has-padding-all-3" style="height: 200px;">
-		<h1 class="title has-text-centered has-padding-bottom-3 has-text-white">{{ .Title }}</h1>
-		<p class="subtitle has-text-light">
-			{{ .Summary }}
-		</p>
-	</div>
+	<div class="has-padding-all-3 is-flex is-flex-row">
+		<div class="has-background-grey has-margin-right-3" style="height: 256px; flex:0 0 256px!important;">&nbsp;</div>
+		
+		<div>
+			<h1 class="title has-text-centered has-padding-bottom-3 has-text-dark">{{ .Title }}</h1>
+			
+			<p class="subtitle">
+				{{ .Summary }}
+				<a href="{{ .Permalink }}">More details...</a>
+			</p>
 
-	<div>
-		{{ .Content }}
+			<div class="is-flex is-flex-row ">
+				<div class="is-flex is-flex-row is-align-center has-margin-right-4">
+					<span class="icon has-margin-right-3">
+						<i class="mdi mdi-48px mdi-currency-usd"></i>
+					</span>
+
+					<div>
+						<p class="title">Price</p>
+						<p class="subtitle has-margin-bottom-0">{{ .Params.PriceRange }}</p>
+					</div>
+				</div>
+
+				<div class="is-flex is-flex-row is-align-center">
+					<span class="icon has-margin-right-3">
+						<i class="mdi mdi-48px mdi-timelapse"></i>
+					</span>
+
+					<div>
+						<p class="title">Time</p>
+						<p class="subtitle has-margin-bottom-0">{{ .Params.TimeEstimate }}</p>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
 </article>

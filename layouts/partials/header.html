@@ -4,13 +4,13 @@
 		<div class="level is-mobile">
 			<div class="level-left">
 				<div class="level-item">
-					<a class="has-text-white is-flex is-flex-row" href="tel:2072137547" title="Phone number">
-						<i class="material-icons has-margin-right-2">phone</i>
+					<a class="has-text-white is-flex is-flex-row is-align-center" href="tel:2072137547" title="Phone number">
+						<i class="mdi mdi-24px mdi-phone has-margin-right-2"></i>
 						207-213-7547
 					</a>
 
-					<a class="has-margin-left-4 is-hidden-mobile has-text-white is-flex is-flex-row" href="mailto:contact@edsautodetailing.com" title="Email">
-						<i class="material-icons has-margin-right-2">email</i>
+					<a class="has-margin-left-4 is-hidden-mobile has-text-white is-flex is-flex-row is-align-center" href="mailto:contact@edsautodetailing.com" title="Email">
+						<i class="mdi mdi-24px mdi-email has-margin-right-2"></i>
 						contact@edsautodetailing.com
 					</a>
 				</div>
@@ -46,6 +46,28 @@
 		
 			<div id="navbar" class="navbar-menu">
 				<div class="navbar-end">
+					<div class="navbar-item has-dropdown is-hoverable">
+						<a class="navbar-link">
+						  More
+						</a>
+				
+						<div class="navbar-dropdown">
+						  <a class="navbar-item">
+							About
+						  </a>
+						  <a class="navbar-item">
+							Jobs
+						  </a>
+						  <a class="navbar-item">
+							Contact
+						  </a>
+						  <hr class="navbar-divider">
+						  <a class="navbar-item">
+							Report an issue
+						  </a>
+						</div>
+					</div>
+
 					{{ range .Site.Menus.main }}
 						<a class="navbar-item" href="{{ .URL | relURL }}" style="text-decoration: none!important;">{{ .Name }}</a>
 					{{ end }}
