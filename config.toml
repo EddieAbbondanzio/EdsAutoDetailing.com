@@ -76,22 +76,15 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     weight = 4
 
     [[menu.main]]
-    identifier = "ozone-odor-removal"
-    name = "Ozone Odor Removal"
-    parent = "services"
-    url="/services/ozone-odor-removal"
-    weight = 5
-
-    [[menu.main]]
     identifier = "interior-spill-cleanup"
     name = "Interior Spill Cleanup"
     parent = "services"
     url="/services/interior-spill-cleanup"
-    weight = 6
+    weight = 5
 
     [[menu.main]]
     identifier = "vinyl-decal-removal"
     name = "Vinyl / Decal Removal"
     parent = "services"
     url="/services/vinyl-decal-removal"
-    weight = 7
+    weight = 6
