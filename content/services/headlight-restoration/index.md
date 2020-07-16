@@ -1,7 +1,7 @@
 +++ 
 title = "Headlight Restoration" 
 weight = 4
-priceRange = "Pair for $100, single for $60"
+priceRange = "$100 a pair"
 timeEstimate = "1.5h - 3h"
 featuredImage = "/services/headlight-restoration/images/thumb.jpg"
 +++
