@@ -16,6 +16,17 @@ main
     flex-grow: 1
     background-color: $white-ter
 
+@each $name, $color in $colors
+    .is-hoverable-#{$name}
+        &:hover
+            background-color: lighten(nth($color, 1), 2%)!important
+            cursor: pointer
+            text-decoration: none!important
+
+
+
+
+
 #home-hero
     background-image: url('/images/shop.jpg')
     background-size: cover
