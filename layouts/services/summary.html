@@ -1,43 +1,41 @@
-<div class="column">
-	<a class="box has-padding-all-3-touch has-padding-all-5-desktop is-flex is-flex-row is-hoverable-light" href="{{ .Permalink }}">
-		<div class="columns">
-			<div class="column is-flex is-align-center">
-				<figure class="has-text-centered-mobile has-margin-right-5-desktop" style="flex: 1 1 auto;">
-					<img src="{{ .Site.BaseURL }}{{.Params.featuredimage }}"></img>
-				</figure>
-			</div>
+<a class="box has-padding-all-3-touch has-padding-all-5-desktop is-flex is-flex-row is-hoverable-light" href="{{ .Permalink }}">
+	<div class="columns">
+		<div class="column is-flex is-align-center">
+			<figure class="has-text-centered-mobile has-margin-right-5-desktop" style="flex: 1 1 auto;">
+				<img src="{{ .Site.BaseURL }}{{.Params.featuredimage }}"></img>
+			</figure>
+		</div>
+		
+		<div class="column">
+			<h1 class="has-padding-bottom-2 has-text-dark has-text-centered-mobile is-size-3 is-size-4-touch">{{ .Title }}</h1>
 			
-			<div class="column">
-				<h1 class="has-padding-bottom-2 has-text-dark has-text-centered-mobile is-size-3 is-size-4-touch">{{ .Title }}</h1>
-				
-				<p class="is-size-5 is-size-6-touch has-text-centered-mobile">
-					{{ .Summary }}
-				</p>
+			<p class="is-size-5 is-size-6-touch has-text-centered-mobile">
+				{{ .Summary }}
+			</p>
 
-				<div class="is-flex is-flex-row has-margin-top-3 is-justify-center-touch">
-					<div class="is-flex is-flex-row is-align-center has-margin-right-4">
-						<span class="icon has-margin-right-3">
-							<i class="mdi mdi-48px mdi-currency-usd"></i>
-						</span>
+			<div class="is-flex is-flex-row has-margin-top-3 is-justify-center-touch">
+				<div class="is-flex is-flex-row is-align-center has-margin-right-4">
+					<span class="icon has-margin-right-3">
+						<i class="mdi mdi-48px mdi-currency-usd"></i>
+					</span>
 
-						<div>
-							<p class="is-size-5-touch is-size-4">Price</p>
-							<p class="is-size-6-touch is-size-5">{{ .Params.PriceRange }}</p>
-						</div>
+					<div>
+						<p class="is-size-5-touch is-size-4">Price</p>
+						<p class="is-size-6-touch is-size-5">{{ .Params.PriceRange }}</p>
 					</div>
+				</div>
 
-					<div class="is-flex is-flex-row is-align-center">
-						<span class="icon has-margin-right-3">
-							<i class="mdi mdi-48px mdi-timelapse"></i>
-						</span>
+				<div class="is-flex is-flex-row is-align-center">
+					<span class="icon has-margin-right-3">
+						<i class="mdi mdi-48px mdi-timelapse"></i>
+					</span>
 
-						<div>
-							<p class="is-size-5-touch is-size-4">Time</p>
-							<p class="is-size-6-touch is-size-5">{{ .Params.TimeEstimate }}</p>
-						</div>
+					<div>
+						<p class="is-size-5-touch is-size-4">Time</p>
+						<p class="is-size-6-touch is-size-5">{{ .Params.TimeEstimate }}</p>
 					</div>
 				</div>
 			</div>
 		</div>
-	</a>
-</div>
+	</div>
+</a>
