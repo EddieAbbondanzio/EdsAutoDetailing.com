@@ -2,7 +2,8 @@
 title = "Vinyl / Decal Removal" 
 priceRange = "Starts at $60"
 timeEstimate = "1h+"
-featuredImage = "/services/vinyl-decal-removal/images/thumb.jpg"
+featuredImage = "/services/vinyl-decal-removal/images/featured.jpg"
+thumb = "/services/vinyl-decal-removal/images/thumb.jpg"
 weight = 6
 +++
 

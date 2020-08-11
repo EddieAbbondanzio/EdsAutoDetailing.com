@@ -2,7 +2,8 @@
 title = "Interior Spill Cleanup" 
 priceRange = "Starts at $60"
 timeEstimate = "1h+"
-featuredImage = "/services/interior-spill-cleanup/images/thumb.jpg"
+featuredImage = "/services/interior-spill-cleanup/images/featured.jpg"
+thumb = "/services/interior-spill-cleanup/images/thumb.jpg"
 weight = 5
 +++
 
