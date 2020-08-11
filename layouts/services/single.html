@@ -4,16 +4,27 @@
         <div class="box has-padding-all-3-touch has-padding-all-5-desktop">
             <nav class="breadcrumb" aria-label="breadcrumbs">
                 <ul>
-                  <li><a href="{{ .Parent.Permalink }}">Services</a></li>
-                  <li class="is-active"><a href="#" aria-current="page">{{ .Title }}</a></li>
+                    <li><a href="{{ .Parent.Permalink }}">Services</a></li>
+                    <li class="is-active"><a href="#" aria-current="page">{{ .Title }}</a></li>
                 </ul>
-              </nav>
+            </nav>
 
 
-			<h1 class="has-padding-bottom-2 has-text-dark has-text-centered-mobile is-size-3 is-size-4-touch">{{ .Title }}</h1>
-            <article>
-                <div> {{ .Content }}</div>
-            </article>
+            <div class="columns">
+                <div class="column">
+                    <figure class="has-text-centered-mobile has-margin-right-5-desktop" style="flex: 1 1 auto;">
+                        <img src="{{ .Site.BaseURL }}{{.Params.featuredimage }}"></img>
+                    </figure>
+                </div>
+
+                <div class="column">
+			        <h1 class="has-padding-bottom-2 has-text-dark has-text-centered-mobile is-size-3 is-size-4-touch">{{ .Title }}</h1>
+
+                    <article>
+                        <div> {{ .Content }}</div>
+                    </article>
+                </div>
+            </div>
         </div> 
     </div> 
 </main>
