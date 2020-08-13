@@ -18,8 +18,8 @@
                         {{ with index (.Resources.Match "featured-image.md") 0 }}
                             {{ .Content }}
                         {{ end }}
+                    </div>
                 </div>
-            </div>
 
                 <div class="column">
 			        <h1 class="has-padding-bottom-2 has-text-dark has-text-centered-mobile is-size-3 is-size-4-touch">{{ .Title }}</h1>
@@ -37,6 +37,13 @@
                     </article>
                 </div>
             </div>
+
+            <!-- Description -->
+            <article>
+                {{ with index (.Resources.Match "description.md") 0 }}
+                {{ .Content }}
+                {{ end }}
+            </article>
         </div> 
     </div> 
 </main>
