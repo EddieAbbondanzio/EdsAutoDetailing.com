@@ -15,7 +15,7 @@
             <div class="columns">
                 <div class="column">
                     <div class="featured-images">
-                        {{ with index (.Resources.Match "featured-images.md") 0 }}
+                        {{ with index (.Resources.Match "featured-image.md") 0 }}
                             {{ .Content }}
                         {{ end }}
                 </div>
