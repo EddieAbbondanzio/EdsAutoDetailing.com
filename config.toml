@@ -42,12 +42,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     weight = 5
 
     [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog"
-    weight = 6
-
-    [[menu.main]]
     identifier = "premium-full-detail"
     name = "Premium Full Detail"
     parent = "services"
