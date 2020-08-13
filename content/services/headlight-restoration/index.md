@@ -7,4 +7,4 @@ featuredImage = "/services/headlight-restoration/images/featured.jpg"
 thumb = "/services/headlight-restoration/images/thumb.jpg"
 +++
 
-Restore foggy headlights to a like new finish. Headlights are wetsanded via a multi step process to restore the plastic lenses until they're almost perfect. Helps improve visibility at night.
+Restore foggy headlights to a like new finish. Headlights are wetsanded to restore the plastic lenses until they're almost perfect. Helps improve visibility at night.

@@ -7,8 +7,6 @@ Our process is extra thorough to ensure the vehicle is returned back to it's ori
 
 {{< figure src="/services/vinyl-decal-removal/images/touch-up.jpg" caption-position="none" width="480px" >}} 
 
-
-
 ### Our Process
 - Wash the work area
 - Remove vinyl and decals via heat
