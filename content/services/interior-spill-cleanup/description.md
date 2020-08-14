@@ -4,7 +4,7 @@ A spill can turn into a big problem fast if not properly addressed. Besides pote
 
 We'll work with you to come up with an attack plan on how to best handle the spill, and return your ride back to it's original state. Interior pieces including seats, panels, and trim can be removed as needed to ensure every last bit is cleaned.
 
-{{< figure src="/services/interior-spill-cleanup/images/seat-removed.jpg" caption-position="none" width="480px" >}} 
+{{< figure src="/services/interior-spill-cleanup/images/seat-removed-thumb.jpg" link="/services/interior-spill-cleanup/images/seat-removed.jpg" caption-position="none" width="480px" >}} 
 
 ## Past Work
 

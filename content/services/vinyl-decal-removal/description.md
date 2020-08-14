@@ -5,7 +5,7 @@ Removal of vinyl, decals, or clear bras is tricky business. If the vinyl, or dec
 
 Our process is extra thorough to ensure the vehicle is returned back to it's original state prior to the vinyl, or decals. We can also help with touching up vinyl or decals that were removed by others.
 
-{{< figure src="/services/vinyl-decal-removal/images/touch-up.jpg" caption-position="none" width="480px" >}} 
+{{< figure src="/services/vinyl-decal-removal/images/touch-up-thumb.jpg" link="/services/vinyl-decal-removal/images/touch-up.jpg" caption-position="none" width="480px" >}} 
 
 ### Our Process
 - Wash the work area
