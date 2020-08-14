@@ -15,7 +15,7 @@ Our process is extra thorough to ensure the vehicle is returned back to it's ori
 
 ### Wash the Work Area
 
-To begin, we'll start off by washing the portion (or entire) vehicle where the vinyl is to ensure a clean work surface. If the vinyl is located on the lower sides of the vehicle where road tar and brake dust build up we'll also decontaminate the paint to get the surronding paint as clean as possible.
+To begin, we'll start off by washing the portion (or entire) vehicle where the vinyl is to ensure a clean work surface. If the vinyl is located on the lower sides of the vehicle where road tar and brake dust build up we'll also decontaminate the paint to get the surrounding paint as clean as possible.
 
 ### Remove Vinyl
 
@@ -27,4 +27,4 @@ Removing vinyl via heat helps keep the amount of adhesive left behind to a minim
 
 ### Machine Polish to Blend Paint
 
-Once the vinyl and adhesive have been fully removed the area is machine polished to blend the paint. The paint that was previously hidden beneath the vinyl or decal is usually in a like new state because it's been protected from the elements. Polishing helps return the surronding paint to a like new state that will match the newly exposed paint to ensure a nice uniform finish.
+Once the vinyl and adhesive have been fully removed the area is machine polished to blend the paint. The paint that was previously hidden beneath the vinyl or decal is usually in a like new state because it's been protected from the elements. Polishing helps return the surrounding paint to a like new state that will match the newly exposed paint to ensure a nice uniform finish.
