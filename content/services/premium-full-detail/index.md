@@ -7,5 +7,5 @@ featuredImage = "/services/premium-full-detail/images/featured.jpg"
 thumb = "/services/premium-full-detail/images/thumb.jpg"
 +++
 
-A comprehensive inside, and out detail. An exterior refresh paired with an interior deep clean. Ideal for the average vehicle that needs a rejuvination.
+A comprehensive inside, and out detail. An exterior refresh paired with an interior deep clean. Perfect to bring your car back to like new.
 

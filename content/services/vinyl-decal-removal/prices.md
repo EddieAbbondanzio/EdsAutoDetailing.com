@@ -1,3 +1,4 @@
+Price is by quote depending on the scope of the job.
 
 | Price            | Time   |
 |------------------|--------|

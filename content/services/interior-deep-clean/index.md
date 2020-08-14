@@ -7,4 +7,4 @@ featuredImage = "/services/interior-deep-clean/images/featured.jpg"
 thumb = "/services/interior-deep-clean/images/thumb.jpg"
 +++
 
-For vehicles with average wear and tear. A thorough cleaning that's perfect to help restore a maintained vehicle back to like new.
+A thorough interior cleaning that can bring back that new car feel. Includes every surface from the headliner down.
