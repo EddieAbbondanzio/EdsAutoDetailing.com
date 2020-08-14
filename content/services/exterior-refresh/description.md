@@ -14,7 +14,7 @@ More than just a car wash. An intensive exterior detail that adds a layer of pro
 
 ## Upgrades
 
-- 4 - 6 month paint sealant: $70
+- 4 - 6 month paint sealant: $70 {{< tag type="is-primary" >}}Most Popular{{< /tag >}}
 - Sap and pitch removal: Starts at $20
 - Brake dust and iron particle removal: $Stats at $20
 - Truck bed wash out: $30
