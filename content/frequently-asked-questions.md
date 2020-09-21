@@ -16,10 +16,6 @@ We accept credit cards, debit cards, cash and checks made out to "Ed's Auto Deta
 
 Please give us a call, or send us an email if you'd like to schedule an appointment. We do our best to respond as soon as possible.
 
-## What are your hours?
-
-We are open Monday to Friday 8AM to 4PM with some variance in what time we close. During winter we may be closed on some days, or close early due to lower demand.
-
 ## Are you open year round?
 
 Yes, we're open year round and can perform any of our services at anytime.
