@@ -1,5 +1,5 @@
 ## Description
-More than just a car wash. An intensive exterior detail that adds a layer of protective wax to the exterior of your vehicle. Great for vehicles that look tired, or the paint just isn't as shiny as it used to be.
+More than just a car wash. An intensive exterior detail that adds a layer of protective wax to the exterior of your vehicle. Great for vehicles that look tired, or the paint just isn't as shiny as it used to be. Additional work such as sap removal can be included as well.
 
 ### Features
 - Wheels, and tires cleaned

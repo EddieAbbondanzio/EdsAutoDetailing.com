@@ -1,6 +1,6 @@
 ## Description
 
-An intensive interior detail that will give a fresh and clean feel down to the last nook and crevice.
+An intensive interior detail that will give a fresh and clean feel down to the last nook and crevice. Extra work such as pet hair removal, or carpet extraction can be included as needed.
 
 ### Features
 - All crevices, and nooks cleaned out

@@ -1,6 +1,6 @@
 ## Description
 
-The most comprehensive service we offer. An all out interior and exterior detail designed to make your vehicle look and feel like brand new.
+The most comprehensive service we offer. An all out interior and exterior detail designed to make your vehicle look and feel like brand new. Depending on vehicle condition additional work such as pet hair removal, carpet extraction, sap removal, and more can be included.
 
 ### Features
 Includes everything from the [interior deep clean](/services/interior-deep-clean), and [exterior refresh](/services/exterior-refresh).
