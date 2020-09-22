@@ -4,6 +4,8 @@ title = "Hours"
 
 Please note that since we are by appointment, our hours may vary slightly. 
 
+{{< highlight-active-day >}}
+
 | | |
 |---------|-------|
 | Monday | 8am - 4:30pm |
