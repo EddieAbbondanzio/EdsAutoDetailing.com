@@ -1,6 +1,6 @@
 
 | Vehicle Size        | Price           | Time   |
 |---------------------|-----------------|--------|
-| Most cars           | Starts at $150  | 3h+  |
-| Small SUVs / trucks | Starts at $170  | 3.5h+    |
-| Large SUVs / trucks | Starts at $190  | 4h+  |
+| Most cars           | $150 - $230 | 3h+  |
+| Small SUVs / trucks | $170 - $250 | 3.5h+    |
+| Large SUVs / trucks | $190 - $270 | 4h+  |
