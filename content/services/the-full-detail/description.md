@@ -26,7 +26,7 @@ Includes everything from the [interior deep clean](/services/interior-deep-clean
 - Interior windows cleaned
 
 ### Upgrades
-- 4 - 6 month paint sealant: $70 {{< tag type="is-primary" >}}Most Popular{{< /tag >}}
+- 6 month paint sealant: $70 {{< tag type="is-primary" >}}Most Popular{{< /tag >}}
 - Engine bay detail: $20 - $30
 - Truck bed wash out: $30
 - Ozone odor removal: $60 per session
