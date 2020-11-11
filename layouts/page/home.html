@@ -1,70 +1,77 @@
 {{ define "main" }}
-	<main>
-        <section id="home-hero" class="hero is-info is-large">
-            <div class="hero-body">
-                <div class="is-flex">
-                    <div id="home-hero-cover" title="Winter shot of the shop">
-                        <div class="has-padding-all-5">
-                            <h1 class="title is-size-3-mobile is-size-1-tablet">
-                                You're busy
-                            </h1>
-                            <h2 class="subtitle is-size-5-mobile is-size-3-tablet has-padding-bottom-3">
-                                Let us spoil your car
-                            </h2>
+<main>
+    <section id="home-hero" class="hero is-info is-large">
+        <div class="hero-body">
+            <div class="is-flex">
+                <div id="home-hero-cover" title="Winter shot of the shop">
+                    <div class="has-padding-all-5">
+                        <h1 class="title is-size-3-mobile is-size-1-tablet">
+                            Rust Proofing Now Available
+                        </h1>
+                        <h2 class="subtitle is-size-5-mobile is-size-3-tablet has-padding-bottom-3">
+                            Don't let your vehicle go unprotected this winter
+                        </h2>
 
-                            <a class="button is-primary is-medium" href="{{ .Site.BaseURL }}/services">Available Services</a>
-                        </div>
+                        <a class="button is-primary is-medium is-align-center"
+                            href="{{ .Site.BaseURL }}/services/rust-proofing">
+                            More info</a>
                     </div>
-                </div>
-            </div>
-        </section>
-            
-        <div class="has-padding-y-6 has-background-light">
-            <div class="container has-padding-x-3-mobile">
-                <h1 class="is-size-1 has-text-centered has-padding-bottom-5">Why Ed's Auto Detailing?</h1>
-
-                <div class="columns is-8">
-                    <div class="column">
-                        <h2 class="title is-size-3 has-text-centered has-padding-bottom-3">Experienced And Insured</h2>
-                        <p class="subtitle">Fully insured and with over 6 years of experience your vehicle is in safe hands.</p>
-                    </div>
-                    <div class="column">
-                        <h2 class="title is-size-3 has-text-centered has-padding-bottom-3">High Quality Results</h2>
-                        <p class="subtitle">All of our equipment and supplies have been hand picked and tested to ensure we can achieve the quality of work we strive for.</p>
-                    </div>
-                    <div class="column">
-                        <h2 class="title is-size-3 has-text-centered has-padding-bottom-3">Locally Owned</h2>
-                        <p class="subtitle">Ed's Auto Detailing is not a franchise, or part of a large company. We're a part of the local community.</p>
-                    </div>
-
                 </div>
             </div>
         </div>
+    </section>
 
+    <div class="has-padding-y-6 has-background-light">
+        <div class="container has-padding-x-3-mobile">
+            <h1 class="is-size-1 has-text-centered has-padding-bottom-5">Why Ed's Auto Detailing?</h1>
+
+            <div class="columns is-8">
+                <div class="column">
+                    <h2 class="title is-size-3 has-text-centered has-padding-bottom-3">Experienced And Insured</h2>
+                    <p class="subtitle">Fully insured and with over 6 years of experience your vehicle is in safe hands.
+                    </p>
+                </div>
+                <div class="column">
+                    <h2 class="title is-size-3 has-text-centered has-padding-bottom-3">High Quality Results</h2>
+                    <p class="subtitle">All of our equipment and supplies have been hand picked and tested to ensure we
+                        can achieve the quality of work we strive for.</p>
+                </div>
+                <div class="column">
+                    <h2 class="title is-size-3 has-text-centered has-padding-bottom-3">Locally Owned</h2>
+                    <p class="subtitle">Ed's Auto Detailing is not a franchise, or part of a large company. We're a part
+                        of the local community.</p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="is-flex is-flex-column is-align-center has-padding-y-5">
+            {{ .Content }}
+        </div>
+    </div>
+
+    <div class="has-background-primary has-text-white">
         <div class="container">
-            <div class="is-flex is-flex-column is-align-center has-padding-y-5">
-                    {{ .Content }}
-            </div>
-        </div>
+            <div class="has-padding-y-5">
+                <h1 class="is-size-2 has-text-centered has-padding-bottom-3">Schedule An Appointment With Us</h1>
 
-        <div class="has-background-primary has-text-white">
-            <div class="container">
-                <div class="has-padding-y-5">
-                    <h1 class="is-size-2 has-text-centered has-padding-bottom-3">Schedule An Appointment With Us</h1>
-
-                    <div class="is-flex is-flex-column is-align-center">
-                        <a class="is-flex is-flex-row is-align-center has-text-white is-size-4" href="tel:2072137547" title="Phone">
-						<i class="mdi mdi-24px mdi-phone has-margin-right-2"></i>
+                <div class="is-flex is-flex-column is-align-center">
+                    <a class="is-flex is-flex-row is-align-center has-text-white is-size-4" href="tel:2072137547"
+                        title="Phone">
+                        <i class="mdi mdi-24px mdi-phone has-margin-right-2"></i>
                         207-213-7547
-                        </a>
-                        
-                        <a class="is-flex is-flex-row is-align-center has-text-white is-size-4" href="mailto:contact@edsautodetailing.com" title="Email">
-						<i class="mdi mdi-24px mdi-email has-margin-right-2"></i>
+                    </a>
+
+                    <a class="is-flex is-flex-row is-align-center has-text-white is-size-4"
+                        href="mailto:contact@edsautodetailing.com" title="Email">
+                        <i class="mdi mdi-24px mdi-email has-margin-right-2"></i>
                         contact@edsautodetailing.com
-                        </a>
-                    </div>
+                    </a>
                 </div>
             </div>
         </div>
-    </main>
+    </div>
+</main>
 {{ end }}
