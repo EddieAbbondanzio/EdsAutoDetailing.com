@@ -2,13 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Ed&#39;s Auto Detailing</title>
-    <link>stupefied-blackwell-4e6598.netlify.com/services/</link>
+    <link>https://www.edsautodetailing.com/services/</link>
     <description>Recent content in Services on Ed&#39;s Auto Detailing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-us</language><atom:link href="https://www.edsautodetailing.com/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Full Detail</title>
+      <link>https://www.edsautodetailing.com/services/the-full-detail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.edsautodetailing.com/services/the-full-detail/</guid>
+      <description>A comprehensive inside, and out detail. An exterior refresh paired with an interior deep clean. Perfect to bring your car back to like new.</description>
+    </item>
     
-	<atom:link href="stupefied-blackwell-4e6598.netlify.com/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interior Deep Clean</title>
+      <link>https://www.edsautodetailing.com/services/interior-deep-clean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.edsautodetailing.com/services/interior-deep-clean/</guid>
+      <description>A thorough interior cleaning that can bring back that new car feel. Includes every surface from the headliner down.</description>
+    </item>
     
+    <item>
+      <title>Exterior Refresh</title>
+      <link>https://www.edsautodetailing.com/services/exterior-refresh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.edsautodetailing.com/services/exterior-refresh/</guid>
+      <description>The classic &amp;ldquo;buff and wax&amp;rdquo;. Paint is machine polished using an all in one that corrects minor swirls and light scratches while adding a layer of wax.</description>
+    </item>
+    
+    <item>
+      <title>Headlight Restoration</title>
+      <link>https://www.edsautodetailing.com/services/headlight-restoration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.edsautodetailing.com/services/headlight-restoration/</guid>
+      <description>Restore foggy headlights to a like new finish. Headlights are wetsanded to restore the plastic lenses until they&amp;rsquo;re almost perfect. Helps improve visibility at night.</description>
+    </item>
+    
+    <item>
+      <title>Interior Spill Cleanup</title>
+      <link>https://www.edsautodetailing.com/services/interior-spill-cleanup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.edsautodetailing.com/services/interior-spill-cleanup/</guid>
+      <description>Spills happen. Whether it&amp;rsquo;s soda, coffee, paint, bodily fluids, or something else we can help. Removal of interior parts such as seats and trim pieces can be done as needed.</description>
+    </item>
+    
+    <item>
+      <title>Vinyl / Decal Removal</title>
+      <link>https://www.edsautodetailing.com/services/vinyl-decal-removal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.edsautodetailing.com/services/vinyl-decal-removal/</guid>
+      <description>Removal of vinyl, decals, or clear bra from the exterior of a vehicle. Perfect for old, or no longer needed vinyl on a vehicle&amp;rsquo;s paint, or glass.</description>
+    </item>
     
   </channel>
 </rss>

@@ -48,10 +48,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     weight = 6
 
     [[menu.main]]
-    identifier = "premium-full-detail"
-    name = "Premium Full Detail"
+    identifier = "the-full-detail"
+    name = "The Full Detail"
     parent = "services"
-    url = "/services/premium-full-detail"
+    url = "/services/the-full-detail"
     weight = 1
 
     [[menu.main]]
